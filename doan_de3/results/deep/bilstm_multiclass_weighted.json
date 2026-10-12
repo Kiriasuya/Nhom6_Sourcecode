@@ -1,0 +1,243 @@
+{
+  "arch": "bilstm",
+  "mode": "multiclass",
+  "loss": "weighted",
+  "best_cfg": {
+    "emb": 200,
+    "hid": 128,
+    "drop": 0.3,
+    "lr": 0.003,
+    "bs": 32
+  },
+  "val_macro_f1": 0.5840326023278437,
+  "test": {
+    "n": 261,
+    "macro_f1": 0.6620893615339078,
+    "micro_f1": 0.6053639846743295,
+    "weighted_f1": 0.5555154455564013,
+    "per_class_f1": {
+      "chương trình đào tạo": 0.7789,
+      "cơ sở vật chất": 0.4646,
+      "dịch vụ sinh viên": 0.5047,
+      "giảng viên": 0.1017,
+      "hệ thống công nghệ thông tin": 1.0,
+      "học phí": 0.9714,
+      "không xác định": 0.8571,
+      "thư viện": 0.6182
+    },
+    "sentiment_macro_f1": 0.6482713025438785,
+    "priority_macro_f1": 0.792016806722689,
+    "urgent_precision": 1.0,
+    "urgent_recall": 1.0
+  },
+  "ood": {
+    "n": 14,
+    "macro_f1": 0.7916666666666666,
+    "micro_f1": 0.7857142857142857,
+    "weighted_f1": 0.7857142857142857,
+    "per_class_f1": {
+      "chương trình đào tạo": 0.6667,
+      "cơ sở vật chất": 0.5,
+      "dịch vụ sinh viên": 1.0,
+      "giảng viên": 0.5,
+      "hệ thống công nghệ thông tin": 1.0,
+      "học phí": 0.6667,
+      "không xác định": 1.0,
+      "thư viện": 1.0
+    },
+    "sentiment_macro_f1": 0.7474747474747474,
+    "priority_macro_f1": 0.4719576719576719,
+    "urgent_precision": 1.0,
+    "urgent_recall": 0.25
+  },
+  "confusion_matrix": {
+    "labels": [
+      "chương trình đào tạo",
+      "cơ sở vật chất",
+      "dịch vụ sinh viên",
+      "giảng viên",
+      "hệ thống công nghệ thông tin",
+      "học phí",
+      "không xác định",
+      "thư viện",
+      "thủ tục hành chính"
+    ],
+    "matrix": [
+      [
+        37,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        23,
+        26,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        27,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7
+      ],
+      [
+        20,
+        24,
+        8,
+        3,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        22,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        17,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        12,
+        2
+      ],
+      [
+        0,
+        1,
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        17
+      ]
+    ]
+  },
+  "latency_ms_mean": 2.871751344998188,
+  "n_params": 468215,
+  "trials": [
+    {
+      "emb": 100,
+      "hid": 64,
+      "drop": 0.5,
+      "lr": 0.003,
+      "bs": 32,
+      "val_macro_f1": 0.4694,
+      "sec": 39.4
+    },
+    {
+      "emb": 100,
+      "hid": 64,
+      "drop": 0.3,
+      "lr": 0.001,
+      "bs": 32,
+      "val_macro_f1": 0.3494,
+      "sec": 8.7
+    },
+    {
+      "emb": 200,
+      "hid": 64,
+      "drop": 0.5,
+      "lr": 0.003,
+      "bs": 32,
+      "val_macro_f1": 0.4514,
+      "sec": 9.2
+    },
+    {
+      "emb": 100,
+      "hid": 128,
+      "drop": 0.3,
+      "lr": 0.001,
+      "bs": 32,
+      "val_macro_f1": 0.3844,
+      "sec": 12.9
+    },
+    {
+      "emb": 200,
+      "hid": 128,
+      "drop": 0.5,
+      "lr": 0.003,
+      "bs": 32,
+      "val_macro_f1": 0.5518,
+      "sec": 41.4
+    },
+    {
+      "emb": 200,
+      "hid": 128,
+      "drop": 0.3,
+      "lr": 0.003,
+      "bs": 32,
+      "val_macro_f1": 0.584,
+      "sec": 38.2
+    },
+    {
+      "emb": 100,
+      "hid": 64,
+      "drop": 0.5,
+      "lr": 0.001,
+      "bs": 32,
+      "val_macro_f1": 0.3453,
+      "sec": 10.1
+    },
+    {
+      "emb": 100,
+      "hid": 64,
+      "drop": 0.3,
+      "lr": 0.003,
+      "bs": 32,
+      "val_macro_f1": 0.4249,
+      "sec": 7.8
+    }
+  ]
+}
