@@ -1,0 +1,131 @@
+{
+  "arch": "bilstm",
+  "mode": "multilabel",
+  "loss": "weighted",
+  "best_cfg": {
+    "emb": 200,
+    "hid": 128,
+    "drop": 0.5,
+    "lr": 0.003,
+    "bs": 32
+  },
+  "val_macro_f1": 0.5993896480605717,
+  "test": {
+    "n": 261,
+    "macro_f1": 0.655707946324321,
+    "micro_f1": 0.6962025316455697,
+    "weighted_f1": 0.649208682797675,
+    "per_class_f1": {
+      "chương trình đào tạo": 0.6792,
+      "cơ sở vật chất": 0.6842,
+      "dịch vụ sinh viên": 0.75,
+      "giảng viên": 0.1639,
+      "hệ thống công nghệ thông tin": 1.0,
+      "học phí": 0.9189,
+      "không xác định": 0.0,
+      "thư viện": 0.8966,
+      "thủ tục hành chính": 0.8085
+    },
+    "sentiment_macro_f1": 0.7641875855588767,
+    "priority_macro_f1": 0.7719394271118408,
+    "urgent_precision": 1.0,
+    "urgent_recall": 1.0
+  },
+  "ood": {
+    "n": 14,
+    "macro_f1": 0.7703703703703704,
+    "micro_f1": 0.8387096774193549,
+    "weighted_f1": 0.8125,
+    "per_class_f1": {
+      "chương trình đào tạo": 0.6667,
+      "cơ sở vật chất": 0.0,
+      "dịch vụ sinh viên": 0.8,
+      "giảng viên": 1.0,
+      "hệ thống công nghệ thông tin": 0.8,
+      "học phí": 1.0,
+      "không xác định": 0.6667,
+      "thư viện": 1.0,
+      "thủ tục hành chính": 1.0
+    },
+    "sentiment_macro_f1": 0.7474747474747474,
+    "priority_macro_f1": 0.3904761904761904,
+    "urgent_precision": 0.0,
+    "urgent_recall": 0.0
+  },
+  "latency_ms_mean": 1.44660591499985,
+  "n_params": 468215,
+  "trials": [
+    {
+      "emb": 100,
+      "hid": 64,
+      "drop": 0.5,
+      "lr": 0.003,
+      "bs": 32,
+      "val_macro_f1": 0.4574,
+      "sec": 12.5
+    },
+    {
+      "emb": 100,
+      "hid": 64,
+      "drop": 0.3,
+      "lr": 0.001,
+      "bs": 32,
+      "val_macro_f1": 0.3449,
+      "sec": 3.5
+    },
+    {
+      "emb": 200,
+      "hid": 64,
+      "drop": 0.5,
+      "lr": 0.003,
+      "bs": 32,
+      "val_macro_f1": 0.5636,
+      "sec": 17.5
+    },
+    {
+      "emb": 100,
+      "hid": 128,
+      "drop": 0.3,
+      "lr": 0.001,
+      "bs": 32,
+      "val_macro_f1": 0.3982,
+      "sec": 16.3
+    },
+    {
+      "emb": 200,
+      "hid": 128,
+      "drop": 0.5,
+      "lr": 0.003,
+      "bs": 32,
+      "val_macro_f1": 0.5994,
+      "sec": 37.6
+    },
+    {
+      "emb": 200,
+      "hid": 128,
+      "drop": 0.3,
+      "lr": 0.003,
+      "bs": 32,
+      "val_macro_f1": 0.5938,
+      "sec": 25.8
+    },
+    {
+      "emb": 100,
+      "hid": 64,
+      "drop": 0.5,
+      "lr": 0.001,
+      "bs": 32,
+      "val_macro_f1": 0.3072,
+      "sec": 3.8
+    },
+    {
+      "emb": 100,
+      "hid": 64,
+      "drop": 0.3,
+      "lr": 0.003,
+      "bs": 32,
+      "val_macro_f1": 0.4713,
+      "sec": 10.8
+    }
+  ]
+}
