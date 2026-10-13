@@ -83,8 +83,8 @@ for task, col in TASKS.items():
 
 res = pd.DataFrame(rows); res.round(4).to_csv(f"{args.out}/results_baseline.csv", index=False, encoding="utf-8-sig")
 pd.set_option("display.width", 220)
-print("=== KET QUA TREN TEST ==="); print(res[res.split == "test"].drop(columns=["split", "train_sec"]).round(3).to_string(index=False))
-print("\n=== KET QUA TREN OOD (14 mau, chi tham khao) ==="); print(res[res.split == "ood"][["task", "model", "balance", "macro_f1", "micro_f1"]].round(3).to_string(index=False))
+print("Ket qua tren test"); print(res[res.split == "test"].drop(columns=["split", "train_sec"]).round(3).to_string(index=False))
+print("\nKet qua tren OOD (14 mau, chi tham khao)"); print(res[res.split == "ood"][["task", "model", "balance", "macro_f1", "micro_f1"]].round(3).to_string(index=False))
 
 # confusion matrix + per-class (mo hinh tot nhat tren val, tap test)
 for task, col in TASKS.items():
