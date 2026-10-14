@@ -1,0 +1,15 @@
+﻿id,text,source,split,sentiment_true,priority_true,sentiment_pred,priority_pred,sentiment_confidence,priority_confidence
+2107,"thư viện hết chỗ ngồi mỗi mùa thi, phải đến từ 6h sáng mới có chỗ",manual,ood,tiêu cực,trung bình,tiêu cực,trung bình,0.9748845100402832,0.8025413155555725
+2108,học phí kỳ này tăng 15% mà không có thông báo trước,manual,ood,tiêu cực,trung bình,tiêu cực,trung bình,0.990481972694397,0.725773274898529
+2109,"em chuyển khoản học phí rồi mà vẫn bị báo nợ, mai hết hạn đăng ký môn, nhờ phòng tài chính check gấp",manual,ood,tiêu cực,cao,tiêu cực,cao,0.9965793490409851,0.9632912278175354
+2110,"xin bảng điểm phải đi 3 lần mới xong, cán bộ nói mỗi lần một kiểu",manual,ood,tiêu cực,trung bình,tiêu cực,thấp,0.9548305869102478,0.46983984112739563
+2111,"cô ở phòng đào tạo hướng dẫn rất tận tình, cảm ơn cô",manual,ood,tích cực,thấp,tích cực,thấp,0.9993184804916382,0.9971961975097656
+2112,wifi yếu quá,manual,ood,tiêu cực,thấp,tiêu cực,trung bình,0.9635491967201233,0.692333996295929
+2113,"web đăng ký học phần sập hoàn toàn lúc 7h, cả khoa không vào được",manual,ood,tiêu cực,cao,tiêu cực,trung bình,0.9980407357215881,0.7723414897918701
+2114,"thầy dạy hay nhưng phòng học nóng quá, quạt thì hỏng",manual,ood,tiêu cực,trung bình,tiêu cực,trung bình,0.9936394095420837,0.889971137046814
+2115,"ký túc xá mất nước 2 ngày liền, sinh viên không có nước sinh hoạt",manual,ood,tiêu cực,cao,tiêu cực,trung bình,0.99915611743927,0.7953384518623352
+2116,câu lạc bộ học thuật của trường tổ chức nhiều buổi workshop bổ ích,manual,ood,tích cực,thấp,tích cực,thấp,0.9966649413108826,0.9984934329986572
+2117,môn cấu trúc dữ liệu nên có thêm giờ thực hành,manual,ood,trung lập,thấp,tiêu cực,thấp,0.5177682042121887,0.6970034241676331
+2118,cho em hỏi lịch thi cuối kỳ đăng ở đâu ạ,manual,ood,trung lập,thấp,trung lập,thấp,0.9979859590530396,0.9916031956672668
+2119,tệ,manual,ood,tiêu cực,thấp,tiêu cực,thấp,0.6981799006462097,0.736208438873291
+2120,"giảng viên có thái độ miệt thị sinh viên trong giờ học, em muốn khiếu nại",manual,ood,tiêu cực,cao,tiêu cực,trung bình,0.9821381568908691,0.6903380155563354

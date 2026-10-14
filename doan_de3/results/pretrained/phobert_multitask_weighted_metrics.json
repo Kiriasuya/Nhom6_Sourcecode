@@ -1,0 +1,167 @@
+{
+  "architecture": "pretrained_transformer_multitask",
+  "model_kind": "phobert",
+  "model_name": "vinai/phobert-base",
+  "loss": "weighted",
+  "train_n": 1502,
+  "val_n": 309,
+  "best_epoch": 2,
+  "best_val_joint_macro_f1": 0.9048405937067237,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.276536,
+      "val_sentiment_macro_f1": 0.846129,
+      "val_priority_macro_f1": 0.827136,
+      "val_joint_macro_f1": 0.836632
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.375447,
+      "val_sentiment_macro_f1": 0.95225,
+      "val_priority_macro_f1": 0.857431,
+      "val_joint_macro_f1": 0.904841
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.297546,
+      "val_sentiment_macro_f1": 0.93061,
+      "val_priority_macro_f1": 0.838881,
+      "val_joint_macro_f1": 0.884746
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.273583,
+      "val_sentiment_macro_f1": 0.952012,
+      "val_priority_macro_f1": 0.851712,
+      "val_joint_macro_f1": 0.901862
+    }
+  ],
+  "test": {
+    "n": 295,
+    "sentiment": {
+      "macro_f1": 0.9271094575261728,
+      "micro_f1": 0.9322033898305084,
+      "weighted_f1": 0.932350037191253,
+      "confusion_matrix": {
+        "labels": [
+          "tiêu cực",
+          "trung lập",
+          "tích cực"
+        ],
+        "matrix": [
+          [
+            159,
+            6,
+            6
+          ],
+          [
+            0,
+            44,
+            1
+          ],
+          [
+            7,
+            0,
+            72
+          ]
+        ]
+      }
+    },
+    "priority": {
+      "macro_f1": 0.8505461767626614,
+      "micro_f1": 0.8101694915254237,
+      "weighted_f1": 0.8164021342130511,
+      "confusion_matrix": {
+        "labels": [
+          "cao",
+          "thấp",
+          "trung bình"
+        ],
+        "matrix": [
+          [
+            37,
+            0,
+            0
+          ],
+          [
+            0,
+            124,
+            51
+          ],
+          [
+            0,
+            5,
+            78
+          ]
+        ]
+      },
+      "urgent_precision": 1.0,
+      "urgent_recall": 1.0
+    },
+    "latency_ms_mean": 478.154218995478
+  },
+  "ood": {
+    "n": 14,
+    "sentiment": {
+      "macro_f1": 0.873015873015873,
+      "micro_f1": 0.9285714285714286,
+      "weighted_f1": 0.9183673469387755,
+      "confusion_matrix": {
+        "labels": [
+          "tiêu cực",
+          "trung lập",
+          "tích cực"
+        ],
+        "matrix": [
+          [
+            10,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            2
+          ]
+        ]
+      }
+    },
+    "priority": {
+      "macro_f1": 0.7676767676767676,
+      "micro_f1": 0.7857142857142857,
+      "weighted_f1": 0.787878787878788,
+      "confusion_matrix": {
+        "labels": [
+          "cao",
+          "thấp",
+          "trung bình"
+        ],
+        "matrix": [
+          [
+            2,
+            0,
+            2
+          ],
+          [
+            0,
+            5,
+            1
+          ],
+          [
+            0,
+            0,
+            4
+          ]
+        ]
+      },
+      "urgent_precision": 1.0,
+      "urgent_recall": 0.5
+    }
+  }
+}

@@ -1,0 +1,296 @@
+﻿id,text,source,split,sentiment_true,priority_true,sentiment_pred,priority_pred,sentiment_confidence,priority_confidence
+1812,minh nghi em bi tinh phat sai so sach tra tre va bi chan muon truoc ngay bao ve em can duoc ho tro ngay!,synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9673203825950623,0.9877901077270508
+1813,xin xác nhận sv phải chờ rất lâu,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.987149715423584,0.7203032374382019
+1814,xin xác nhận sinh viên phải chờ rất lâu nhà trường xem xét giúp em.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9853758215904236,0.8140730261802673
+1815,"em bị gv gợi ý nộp tiền để dc qua môn, đề nghị trường xử lý gấp em cần dc hỗ trợ ngay!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9612357020378113,0.9913824200630188
+1816,"ký túc xá sạch sẽ, an ninh tốt",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9885088801383972,0.975654125213623
+1817,"lich hoc day dac, khong co thoi gian tu hoc",synthetic_template,test,tiêu cực,trung bình,tích cực,thấp,0.9869025945663452,0.9677850604057312
+1818,theo em thì em muốn hỏi thủ tục xin bảo lưu kết quả học tập,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9885116815567017,0.9342318773269653
+1819,em muốn hỏi thủ tục xin bảo lưu kết quả học tập ạ.,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9854047894477844,0.9213500022888184
+1820,"hệ thống lms dễ dùng, giao diện đẹp",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9889135956764221,0.972518801689148
+1821,xin xác nhận sinh viên phải chờ rất lâu,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9872093200683594,0.7474686503410339
+1822,theo em thì em bị bạn cùng phòng đe dọa nhưng chưa biết báo cho ai xin xử lý gấp.,synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9526631832122803,0.9898987412452698
+1823,cho em hoi co co nhan huong dan do an khong a? haizz,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9910956621170044,0.9458705186843872
+1824,"theo em thì ký túc xá sạch sẽ, an ninh tốt mong tiếp tục phát huy.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9903444647789001,0.9766951203346252
+1825,theo em thi cang tin dong va thieu cho ngoi.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.8511320948600769,0.5894489884376526
+1826,em thấy e muốn hỏi thủ tục xin bảo lưu kết quả học tập?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.988976001739502,0.9278042912483215
+1827,"mong nhà trường xem lại: ký túc xá sạch sẽ, an ninh tốt em rất hài lòng. huhu",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9894564747810364,0.9783762693405151
+1828,em thấy em bị tính phạt sai số sách trả trễ và bị chặn mượn trước ngày bảo vệ xin xử lý gấp.,synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9785056710243225,0.9847848415374756
+1829,xin xác nhận sinh viên phải chờ rất lâu,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9872093200683594,0.7474686503410339
+1830,"mong trường xe lại: e bị gv gợi ý nộp tiền để được qua môn, đề nghị trường xử lý gấp xin xử lý gấp.",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9192215204238892,0.9904036521911621
+1831,"theo em thì lịch học dày đặc, ko có thời gian tự học",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9841892123222351,0.8522369861602783
+1832,theo em thì cho em hỏi cô có nhận hướng dẫn đồ án không ạ,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9902442693710327,0.9360306859016418
+1833,"mong trường xe lại: lịch học dày đặc, không có thời gian tự học hy vọng khắc phục sớm.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9865766763687134,0.8309832215309143
+1834,mong nhà trường xem lại: cho em hỏi cô có nhận hướng dẫn đồ án không ạ haizz,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9915374517440796,0.9526932835578918
+1835,em thấy căng tin đông và thiếu chỗ ngồi,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9841779470443726,0.8253520131111145
+1836,"mình nghĩ em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp xin xử lý gấp.",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9418023228645325,0.9913074374198914
+1837,"điều hòa phòng học không mát, rát oi bức mong sớm dc cải thiện.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9827523827552795,0.7951557040214539
+1838,căng tin đông và thiếu chỗ ngồi mong sớm được cải thiện.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9816960096359253,0.8199846148490906
+1839,mình nghĩ căng tin đông và thiếu chỗ ngồi hy vọng khắc phục sớm. =((,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.982831597328186,0.8165034651756287
+1840,"em thấy hệ thống lms dễ dùng, giao diện đẹp mong tiếp tục phát huy. :(",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9897549748420715,0.9763447046279907
+1841,"minh nghi lich hoc day dac, khong co thoi gian tu hoc nha truong xem xet giup em.",synthetic_template,test,tiêu cực,trung bình,tích cực,thấp,0.5418500900268555,0.6654461026191711
+1842,"hệ thống lms dễ dùng, giao diện đẹp em rát hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9905706644058228,0.971741259098053
+1843,"mong nhà trường xem lại: em bị giảng viên gợi ý nộp tiền để dc qua môn, đề nghị nhà trường xử lý gấp xin xử lý gấp.",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9414762258529663,0.991732120513916
+1844,"lịch học dày đặc, ko có thời gian tự học mong sớm dc cải thiện.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9844831824302673,0.8308258652687073
+1845,em thay em bi ban cung phong de doa nhung chua biet bao cho ai xin xu ly gap.,synthetic_template,test,tiêu cực,cao,trung lập,cao,0.5957667827606201,0.7366442084312439
+1846,em thấy e muốn hỏi thủ tục xin bảo lưu kết quả học tập,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.990003228187561,0.9478553533554077
+1847,"điều hòa phòng học không mát, rất oi bức quá thất vọng.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9836758971214294,0.8266839981079102
+1848,em thay hoc phi mon hoc lai qua cao,synthetic_template,test,tiêu cực,thấp,tích cực,thấp,0.6521602272987366,0.7650575637817383
+1849,"thư viện yên tĩnh, nhiều sách hay mong tiếp tục phát huy.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.989538848400116,0.97504723072052
+1850,mình nghĩ cho em hỏi cô có nhận hướng dẫn đồ án không ạ?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9899806380271912,0.9362407922744751
+1851,xin xác nhận sinh viên phải chờ rất lâu hy vọng khắc phục sớm.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9853162169456482,0.758591890335083
+1852,"môn tự chọn quá ít, không có nhiều lựa chọn hy vọng khắc phục sớm.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9829471707344055,0.8406302332878113
+1853,"mong nhà trường xem lại: hệ thống lms dễ dùng, giao diện đẹp",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9887956380844116,0.972305417060852
+1854,theo em thì học phí môn học lại quá cao quá thất vọng.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9825678467750549,0.8417194485664368
+1855,theo e thì e muốn hỏi thủ tục xin bảo lưu kết quả học tập,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9829555153846741,0.8977295756340027
+1856,em muốn hỏi thủ tục xin bảo lưu kết quả học tập ạ.,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9854047894477844,0.9213500022888184
+1857,cảm ơn thầy cô,synthetic_short,test,tích cực,thấp,tích cực,thấp,0.8199295401573181,0.9770663380622864
+1858,"minh nghi mon tu chon qua it, khong co nhieu lua chon mong som duoc cai thien.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9811610579490662,0.8130795955657959
+1859,"minh nghi ky tuc xa sach se, an ninh tot",synthetic_template,test,tích cực,thấp,tiêu cực,trung bình,0.908187985420227,0.6874528527259827
+1860,theo em thì xin xác nhận sinh viên phải chờ rất lâu mong sớm được cải thiện.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9865899085998535,0.8098769187927246
+1861,"theo em thì thư viện yên tĩnh, nhiều sách hay mong tiếp tục phát huy.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9898638129234314,0.9741334319114685
+1862,"minh nghi he thong lms de dung, giao dien dep",synthetic_template,test,tích cực,thấp,tiêu cực,trung bình,0.7459880113601685,0.5070616602897644
+1863,"môn tự chọn wa ít, không có nhiều lựa chọn",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.978812038898468,0.8239765763282776
+1864,cho em hỏi cô có nhận hướng dẫn đồ án không ạ? :(,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9906821250915527,0.9532783031463623
+1865,"em thấy hệ thống lms dễ dùng, giao diện đẹp cảm ơn nhà trường nhiều.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9905962944030762,0.9745721220970154
+1866,học phí môn học lại quá cao,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9801575541496277,0.8161855936050415
+1867,"mong nhà trường xem lại: điều hòa phòng học không mát, rất oi bức mong sớm được cải thiện.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9823394417762756,0.8127670884132385
+1868,"dieu hoa phong hoc khong mat, rat oi buc qua that vong.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9759995937347412,0.7984172701835632
+1869,mong nhà trường xem lại: căng tin đông và thiếu chỗ ngồi,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9824239015579224,0.8279150128364563
+1870,mong nhà trường xem lại: căng tin đông và thiếu chỗ ngồi hy vọng khắc phục sớm. =((,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9831724166870117,0.8263214826583862
+1871,"dieu hoa phong hoc khong mat, rat oi buc nha truong xem xet giup em.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9304574728012085,0.7060556411743164
+1872,"em thấy điều hòa phòng học không mát, rất oi bức",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9838085770606995,0.839113712310791
+1873,"em bị giảng viên gợi ý nộp tiền để dc qua môn, đề nghị nhà trường xử lý gấp xin xử lý gấp.",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9467006921768188,0.9913260340690613
+1874,"theo em thì ký túc xá sạch sẽ, an ninh tốt.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.990195095539093,0.9767314195632935
+1875,"theo em thì hệ thống lms dễ dùng, giao diện đẹp",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.986941397190094,0.9685094356536865
+1876,"điều hòa phòng học không mát, rất oi bức.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9813963770866394,0.8366360068321228
+1877,mình nghĩ học phí môn học lại quá cao,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.983767032623291,0.8054782152175903
+1878,theo em thi xin xac nhan sinh vien phai cho rat lau mong som duoc cai thien.,synthetic_template,test,tiêu cực,thấp,trung lập,thấp,0.8412057161331177,0.7784633040428162
+1879,"mình nghĩ ký túc xá sạch sẽ, an ninh tốt :(",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.988218367099762,0.9796262383460999
+1880,em thấy cho em hỏi cô có nhận hướng dẫn đồ án không ạ ạ?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9896766543388367,0.9360034465789795
+1881,mong nhà trường xem lại: căng tin đông và thiếu chỗ ngồi nhà trường xem xét giúp em.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9828643798828125,0.8243038654327393
+1882,"mong nha truong xem lai: dieu hoa phong hoc khong mat, rat oi buc",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.7607980370521545,0.5698300004005432
+1883,em muốn hỏi thủ tục xin bảo lưu kết quả học tập ạ.,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9854047894477844,0.9213500022888184
+1884,cho e hỏi cô có nhận hướng dẫn đồ án ko ạ,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9899348616600037,0.9405203461647034
+1885,"em thấy lịch học dày đặc, không có thời gian tự học",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9840570092201233,0.8218731880187988
+1886,học phí môn học lại quá cao haizz,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9818741083145142,0.8103522062301636
+1887,mình nghĩ cho em hỏi cô có nhận hướng dẫn đồ án không ạ? huhu,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9912228584289551,0.9489551782608032
+1888,"he thong lms de dung, giao dien dep.",synthetic_template,test,tích cực,thấp,tiêu cực,trung bình,0.9442960619926453,0.7439813017845154
+1889,"theo em thi ky tuc xa sach se, an ninh tot",synthetic_template,test,tích cực,thấp,tiêu cực,trung bình,0.9696437120437622,0.7714387774467468
+1890,mình nghĩ căng tin đông và thiếu chỗ ngồi mong sớm được cải thiện.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9827508330345154,0.8218697309494019
+1891,theo em thì cho em hỏi cô có nhận hướng dẫn đồ án không ạ ạ?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9894965291023254,0.9348987340927124
+1892,"theo em thì điều hòa phòng học không mát, rất oi bức quá thất vọng.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9839386343955994,0.843595564365387
+1893,"em thấy ký túc xá sạch sẽ, an ninh tốt.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9902757406234741,0.9760944247245789
+1894,"theo em thì lịch học dày đặc, không có thời gian tự học hy vọng khắc phục sớm.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9856439828872681,0.8460444808006287
+1895,"lịch học dày đặc, không có thời gian tự học.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9822694063186646,0.8269680142402649
+1896,"mong nhà trường xem lại: điều hòa phòng học không mát, rất oi bức",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9824183583259583,0.8354029059410095
+1897,em thấy căng tin đông và thiếu chỗ ngồi hy vọng khắc phục sớm.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9833316802978516,0.8143187761306763
+1898,"theo em thì lịch học dày đặc, không có thời gian tự học nhà trường xem xét giúp em.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9853522181510925,0.8561193346977234
+1899,theo em thì căng tin đông và thiếu chỗ ngồi quá thất vọng.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9827035665512085,0.8353955745697021
+1900,"mong trường xem lại: điều hòa phòng học ko mát, rất oi bức",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.981907069683075,0.8309312462806702
+1901,"em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.950268030166626,0.9917154908180237
+1902,"em bi giang vien goi y nop tien de duoc qua mon, de nghi nha truong xu ly gap em can duoc ho tro ngay!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9624825119972229,0.989983320236206
+1903,cang tin dong va thieu cho ngoi mong som duoc cai thien.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9767953157424927,0.8092169165611267
+1904,em muốn hỏi thủ tục xin bảo lưu kết quả học tập,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9891694784164429,0.9493781924247742
+1905,"thư viện yên tĩnh, nhiều sách hay.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9887942671775818,0.9728512167930603
+1906,"theo em thì em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp nhờ nhà trường xử lý gấp ạ!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9346191883087158,0.9923461675643921
+1907,"theo em thì hệ thống lms dễ dùng, giao diện đẹp mong tiếp tục phát huy.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9903489351272583,0.9733846783638
+1908,em thấy cho em hỏi cô có nhận hướng dẫn đồ án không ạ ạ.,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9893374443054199,0.9374309182167053
+1909,"mon tu chon qua it, khong co nhieu lua chon",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9440136551856995,0.7660269141197205
+1910,"môn tự chọn quá ít, không có nhiều lựa chọn mong sớm được cải thiện.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9825109839439392,0.8408421874046326
+1911,cho em hỏi cô có nhận hướng dẫn đồ án không ạ ạ?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9904178977012634,0.9403300285339355
+1912,cho em hỏi cô có nhận hướng dẫn đồ án không ạ ạ? :(,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9904610514640808,0.9487125277519226
+1913,"lịch học dày đặc, không có thời gian tự học.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9822694063186646,0.8269680142402649
+1914,"mong trường xem lại: thư viện yên tĩnh, nhiều sách hay cảm ơn trường nhiều.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9889618754386902,0.9747886657714844
+1915,theo e thì cho e hỏi cô có nhận hướng dẫn đồ án không ạ?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9860257506370544,0.9224557876586914
+1916,"theo em thì điều hòa phòng học không mát, rất oi bức nhà trường xem xét giúp em.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9852612614631653,0.8450283408164978
+1917,"điều hòa phòng học không mát, rất oi bức =((",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.984666109085083,0.8446988463401794
+1918,"theo em thi em bi giang vien goi y nop tien de duoc qua mon, de nghi nha truong xu ly gap nho nha truong xu ly gap a!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9450738430023193,0.9853115081787109
+1919,"hệ thống lms dễ dùng, giao diện đẹp.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.989250898361206,0.9735942482948303
+1920,xin xác nhận sinh viên phải chờ rất lâu mong sớm được cải thiện.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.987534761428833,0.8098015785217285
+1921,cho em hoi co co nhan huong dan do an khong a?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9909960627555847,0.9413398504257202
+1922,"theo em thì ký túc xá sạch sẽ, an ninh tốt em rất hài lòng. :(",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9891089200973511,0.9779645204544067
+1923,hoc phi mon hoc lai qua cao hy vong khac phuc som.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9770386815071106,0.8366837501525879
+1924,theo em thì căng tin đông và thiếu chỗ ngồi nhà trường xem xét giúp em.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9849682450294495,0.8480930328369141
+1925,cho em hỏi cô có nhận hướng dẫn đồ án không ạ,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9905919432640076,0.9466295838356018
+1926,"em thấy môn tự chọn quá ít, không có nhiều lựa chọn",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9807233214378357,0.823123037815094
+1927,minh nghi cho em hoi co co nhan huong dan do an khong a?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9907436966896057,0.941262423992157
+1928,minh nghi xin xac nhan sinh vien phai cho rat lau.,synthetic_template,test,tiêu cực,thấp,trung lập,thấp,0.9889057874679565,0.9169616103172302
+1929,"em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp nhờ nhà trường xử lý gấp ạ!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9257642030715942,0.9922314882278442
+1930,"mong nhà trường xem lại: ký túc xá sạch sẽ, an ninh tốt em rất hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9897358417510986,0.9777393937110901
+1931,em bị bạn cùng phòng đe dọa nhưng chưa biết báo cho ai xin xử lý gấp.,synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9527490735054016,0.9906439781188965
+1932,em bị bạn cùng phòng đe dọa nhưng chưa biết báo cho ai nhờ nhà trường xử lý gấp ạ!,synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9415228366851807,0.9918482303619385
+1933,"thư viện yên tĩnh, nhiều sách hay",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9888550639152527,0.9724034070968628
+1934,học phí,synthetic_short,test,trung lập,thấp,tích cực,thấp,0.7567160725593567,0.7073566913604736
+1935,theo em thi hoc phi mon hoc lai qua cao qua that vong.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9651960730552673,0.7847323417663574
+1936,"hệ thống lms dễ dùng, giao diện đẹp",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9889135956764221,0.972518801689148
+1937,học phí môn học lại quá cao,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9801575541496277,0.8161855936050415
+1938,"hệ thống lms dễ dùng, giao diện đẹp em rất hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9909583330154419,0.9740422964096069
+1939,mình nghĩ học phí môn học lại quá cao hy vọng khắc phục sớm.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9849574565887451,0.819051206111908
+1940,"ký túc xá sạch sẽ, an ninh tốt",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9885088801383972,0.975654125213623
+1941,"lịch học dày đặc, không có thời gian tự học quá thất vọng.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9827698469161987,0.8182491064071655
+1942,"lịch học dày đặc, không có thời gian tự học",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.982628583908081,0.8188579082489014
+1943,"dieu hoa phong hoc khong mat, rat oi buc hy vong khac phuc som.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9765674471855164,0.8138949275016785
+1944,theo em thì em bị bạn cùng phòng đe dọa nhưng chưa biết báo cho ai em cần được hỗ trợ ngay!,synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9464825987815857,0.9913886189460754
+1945,"mình nghĩ ký túc xá sạch sẽ, an ninh tốt em rát hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9904663562774658,0.976852536201477
+1946,"mong nhà trường xem lại: em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp xin xử lý gấp.",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9328923225402832,0.9916403293609619
+1947,em bị bạn cùng phòng đe dọa nhưng chưa biết báo cho ai em cần được hỗ trợ ngay!,synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9462560415267944,0.991576611995697
+1948,"thư viện yên tĩnh, nhiều sách hay em rất hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9903726577758789,0.975020706653595
+1949,"dieu hoa phong hoc khong mat, rat oi buc",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9554963111877441,0.7713232040405273
+1950,"ký túc xá sạch sẽ, an ninh tốt em rát hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9903839826583862,0.9761238098144531
+1951,"mong nha truong xem lai: em bi giang vien goi y nop tien de duoc qua mon, de nghi nha truong xu ly gap nho nha truong xu ly gap a!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.8679884076118469,0.9842696189880371
+1952,"ky tuc xa sach se, an ninh tot em rat hai long.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9700905680656433,0.9354925155639648
+1953,em thấy học phí môn học lại quá cao mong sớm được cải thiện.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9841043949127197,0.8288090229034424
+1954,"ký túc xá sạch sẽ, an ninh tốt mong tiếp tục phát huy.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9893428087234497,0.977775514125824
+1955,"theo em thì điều hòa phòng học không mát, rất oi bức",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9823181629180908,0.8456053733825684
+1956,căng tin đông và thiếu chỗ ngồi.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9810850620269775,0.8227492570877075
+1957,học phí môn học lại quá cao nhà trường xem xét giúp em.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9830576777458191,0.8449726700782776
+1958,em thấy cho e hỏi cô có nhận hướng dẫn đồ án không ạ,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.990240216255188,0.9437174201011658
+1959,"theo em thì ký túc xá sạch sẽ, an ninh tốt em rất hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9904738068580627,0.9758904576301575
+1960,"mình nghĩ hệ thống lms dễ dùng, giao diện đẹp cảm ơn trường nhiều.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.989928662776947,0.9747136831283569
+1961,mình nghĩ em bị tính phạt sai số sách trả trễ và bị chặn mượn trước ngày bảo vệ em cần được hỗ trợ ngay!,synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9689815640449524,0.9894607663154602
+1962,"môn tự chọn quá ít, không có nhiều lựa chọn quá thất vọng.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.983123779296875,0.8234818577766418
+1963,"lịch học dày đặc, không có thời gian tự học hy vọng khắc phục sớm.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9851502776145935,0.8309503197669983
+1964,"em thay em bi giang vien goi y nop tien de duoc qua mon, de nghi nha truong xu ly gap nho nha truong xu ly gap a!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9398060441017151,0.9865099787712097
+1965,xin xac nhan sinh vien phai cho rat lau.,synthetic_template,test,tiêu cực,trung bình,trung lập,thấp,0.9887576699256897,0.9385243654251099
+1966,"em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp xin xử lý gấp.",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9404552578926086,0.9914108514785767
+1967,"điều hòa phòng học không mát, rất oi bức hy vọng khắc phục sớm.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9843131303787231,0.8072876334190369
+1968,"thư viện yên tĩnh, nhiều sách hay em rất hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9903726577758789,0.975020706653595
+1969,"theo em thì môn tự chọn quá ít, không có nhiều lựa chọn quá thất vọng.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9825617074966431,0.840103805065155
+1970,em thấy em muốn hỏi thủ tục xin bảo lưu kết quả học tập?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9888968467712402,0.9255073666572571
+1971,"hệ thống lms dễ dùng, giao diện đẹp mong tiếp tục phát huy.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9903337359428406,0.974321722984314
+1972,"em thấy ký túc xá sạch sẽ, an ninh tốt cảm ơn nhà trường nhiều.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9897269606590271,0.9762564897537231
+1973,"em bị giảng viên gợi ý nộp tiền để dc qua môn, đề nghị nhà trường xử lý gấp em cần dc hỗ trợ ngay!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9531369805335999,0.9921339750289917
+1974,"em thấy em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp em cần được hỗ trợ ngay!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9525735974311829,0.9918934106826782
+1975,căng tin đông và thiếu chỗ ngồi,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9813732504844666,0.8078369498252869
+1976,"theo em thi he thong lms de dung, giao dien dep.",synthetic_template,test,tích cực,thấp,tiêu cực,thấp,0.8000231385231018,0.5270436406135559
+1977,"điều hòa phòng học không mát, rất oi bức quá thất vọng.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9836758971214294,0.8266839981079102
+1978,"mình nghĩ môn tự chọn quá ít, không có nhiều lựa chọn.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9803234338760376,0.828153133392334
+1979,mong nha truong xem lai: xin xac nhan sinh vien phai cho rat lau,synthetic_template,test,tiêu cực,thấp,trung lập,thấp,0.9912882447242737,0.9358802437782288
+1980,"e bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp xin xử lý gấp.",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9412216544151306,0.9911020994186401
+1981,"theo em thi dieu hoa phong hoc khong mat, rat oi buc hy vong khac phuc som.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.980254590511322,0.812150239944458
+1982,"thư viện yên tĩnh, nhiều sách hay em rất hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9903726577758789,0.975020706653595
+1983,"mình nghĩ thư viện yên tĩnh, nhiều sách hay mong tiếp tục phát huy.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9893275499343872,0.9761543869972229
+1984,"em bị bạn cùng phòng đe dọa nhưng chưa biết báo cho ai rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9545955061912537,0.9915069937705994
+1985,căng tin đông và thiếu chỗ ngồi mong sớm được cải thiện.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9816960096359253,0.8199846148490906
+1986,"em thấy thư viện yên tĩnh, nhiều sách hay em rất hài lòng. huhu",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9898751378059387,0.9762097001075745
+1987,"môn tự chọn quá ít, không có nhiều lựa chọn nhà trường xem xét giúp em.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9832316637039185,0.8479466438293457
+1988,"em thấy ký túc xá sạch sẽ, an ninh tốt",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9902694225311279,0.9747695922851562
+1989,cho em hỏi cô có nhận hướng dẫn đồ án không ạ?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9905919432640076,0.941016435623169
+1990,"thư viện yên tĩnh, nhiều sách hay huhu",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9849206805229187,0.9655985236167908
+1991,"theo e thì e bị gv gợi ý nộp tiền để dc qua môn, đề nghị nhà trường xử lý gấp nhờ nhà trường xử lý gấp ạ!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.939128041267395,0.9922292828559875
+1992,xin xác nhận sinh viên phải chờ rất lâu mong sớm được cải thiện. huhu,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9809912443161011,0.650878369808197
+1993,"mong nhà trường xem lại: lịch học dày đặc, không có thời gian tự học hy vọng khắc phục sớm.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.986140251159668,0.8311437368392944
+1994,mong nhà trường xem lại: cho em hỏi cô có nhận hướng dẫn đồ án không ạ,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9912663102149963,0.9518227577209473
+1995,"mong nhà trường xem lại: em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9497355818748474,0.9921282529830933
+1996,mình nghĩ xin xác nhận sinh viên phải chờ rất lâu,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9713485836982727,0.7177252769470215
+1997,"em thấy ký túc xá sạch sẽ, an ninh tốt mong tiếp tục phát huy.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9903144240379333,0.9762297868728638
+1998,xin xác nhận sinh viên phải chờ rát lâu,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9129053950309753,0.5582302212715149
+1999,"lịch học dày đặc, không có thời gian tự học mong sớm được cải thiện.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9843187928199768,0.8340141773223877
+2000,"thư viện yên tĩnh, nhiều sách hay cảm ơn nhà trường nhiều.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9892693161964417,0.9737727046012878
+2001,cho em hoi co co nhan huong dan do an khong a,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9905479550361633,0.9458514451980591
+2002,căng tin đông và thiếu chỗ ngồi.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9810850620269775,0.8227492570877075
+2003,mình nghĩ cho em hỏi cô có nhận hướng dẫn đồ án không ạ,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9901435375213623,0.940836489200592
+2004,xin xác nhận sinh viên phải chờ rất lâu,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9872093200683594,0.7474686503410339
+2005,"ký túc xá sạch sẽ, an ninh tốt em rất hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9903867840766907,0.9763357043266296
+2006,"hệ thống lms dễ dùng, giao diện đẹp cảm ơn nhà trường nhiều.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9905271530151367,0.9748409986495972
+2007,"hệ thống lms dễ dùng, giao diện đẹp mong tiếp tục phát huy.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9903337359428406,0.974321722984314
+2008,minh nghi cang tin dong va thieu cho ngoi,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9548799395561218,0.7868751883506775
+2009,"em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp em cần được hỗ trợ ngay!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9502000212669373,0.9920692443847656
+2010,"ký túc xá sạch sẽ, an ninh tốt cảm ơn nhà trường nhiều.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9884430766105652,0.9767608642578125
+2011,"lịch học dày đặc, không có thời gian tự học mong sớm được cải thiện.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9843187928199768,0.8340141773223877
+2012,"theo em thi ky tuc xa sach se, an ninh tot",synthetic_template,test,tích cực,thấp,tiêu cực,trung bình,0.9696437120437622,0.7714387774467468
+2013,"môn tự chọn quá ít, không có nhiều lựa chọn quá thất vọng.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.983123779296875,0.8234818577766418
+2014,mong nhà trường xem lại: học phí môn học lại quá cao mong sớm được cải thiện.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9847214818000793,0.8276515007019043
+2015,căng tin đông và thiếu chỗ ngồi nhà trường xem xét giúp em. =((,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9831261038780212,0.8290480375289917
+2016,"mong nhà trường xem lại: thư viện yên tĩnh, nhiều sách hay",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9896951913833618,0.9745804667472839
+2017,"em bị gv gợi ý nộp tiền để dc qua môn, đề nghị trường xử lý gấp xin xử lý gấp.",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9549643993377686,0.9906980395317078
+2018,"ky tuc xa sach se, an ninh tot cam on nha truong nhieu.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.98592209815979,0.9596259593963623
+2019,cho em hỏi cô có nhận hướng dẫn đồ án không ạ ạ.,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9906265735626221,0.9490583539009094
+2020,"mình nghĩ ký túc xá sạch sẽ, an ninh tốt.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9894715547561646,0.9782424569129944
+2021,"dieu hoa phong hoc khong mat, rat oi buc mong som duoc cai thien.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9745842218399048,0.7903980016708374
+2022,"hệ thống lms dễ dùng, giao diện đẹp cảm ơn nhà trường nhiều.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9905271530151367,0.9748409986495972
+2023,"dieu hoa phong hoc khong mat, rat oi buc.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9587216973304749,0.7822868824005127
+2024,"theo em thì hệ thống lms dễ dùng, giao diện đẹp",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.986941397190094,0.9685094356536865
+2025,"em bị giảng viên gợi ý nộp tiền để dc qua môn, đề nghị trường xử lý gấp rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9539515376091003,0.9919339418411255
+2026,mình nghĩ xin xác nhận sinh viên phải chờ rất lâu hy vọng khắc phục sớm. =((,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9787561893463135,0.7249473333358765
+2027,cho em hỏi cô có nhận hướng dẫn đồ án không ạ?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9905919432640076,0.941016435623169
+2028,"dieu hoa phong hoc khong mat, rat oi buc mong som duoc cai thien.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9745842218399048,0.7903980016708374
+2029,em thấy xin xác nhận sinh viên phải chờ rất lâu,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9831026196479797,0.7627308368682861
+2030,mong nhà trường xem lại: học phí môn học lại quá cao.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.978561282157898,0.8238396644592285
+2031,xin xác nhận sinh viên phải chờ rất lâu quá thất vọng.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9864663481712341,0.8061953783035278
+2032,"mong trường xem lại: hệ thống lms dễ dùng, giao diện đẹp em rất hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9906153678894043,0.9760200381278992
+2033,"mình nghĩ hệ thống lms dễ dùng, giao diện đẹp",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9873450398445129,0.973158061504364
+2034,theo em thì học phí môn học lại quá cao.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9802082180976868,0.8446428775787354
+2035,xin xác nhận sinh viên phải chờ rất lâu hy vọng khắc phục sớm. haizz,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9852428436279297,0.7570585012435913
+2036,"ky tuc xa sach se, an ninh tot mong tiep tuc phat huy.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9881626963615417,0.9658957123756409
+2037,"lich hoc day dac, khong co thoi gian tu hoc.",synthetic_template,test,tiêu cực,trung bình,tích cực,thấp,0.982930600643158,0.9644320607185364
+2038,học phí môn học lại quá cao quá thất vọng.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9826698303222656,0.8252530097961426
+2039,cho e hỏi cô có nhận hướng dẫn đồ án không ạ ạ.,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9888259172439575,0.9402427673339844
+2040,"ký túc xá sạch sẽ, an ninh tốt.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9888433218002319,0.9769407510757446
+2041,cang tin dong va thieu cho ngoi nha truong xem xet giup em.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.956840991973877,0.7411274909973145
+2042,"em thấy hệ thống lms dễ dùng, giao diện đẹp",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9888816475868225,0.9725563526153564
+2043,mong nhà trường xem lại: cho em hỏi cô có nhận hướng dẫn đồ án không ạ?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9914689064025879,0.9479320645332336
+2044,"môn tự chọn quá ít, không có nhiều lựa chọn.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9787852168083191,0.8281705975532532
+2045,"thư viện yên tĩnh, nhiều sách hay em rất hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9903726577758789,0.975020706653595
+2046,"em thấy lịch học dày đặc, không có thời gian tự học mong sớm được cải thiện. :(",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9844089150428772,0.8428351283073425
+2047,"minh nghi lich hoc day dac, khong co thoi gian tu hoc",synthetic_template,test,tiêu cực,thấp,tích cực,thấp,0.9889591932296753,0.9711709022521973
+2048,"em thấy thư viện yên tĩnh, nhiều sách hay em rát hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9904654026031494,0.9733032584190369
+2049,"minh nghi em bi giang vien goi y nop tien de duoc qua mon, de nghi nha truong xu ly gap em can duoc ho tro ngay!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9601941108703613,0.9902295470237732
+2050,"điều hòa phòng học không mát, rát oi bức mong sớm được cải thiện.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9820928573608398,0.8104912638664246
+2051,"lịch học dày đặc, không có thời gian tự học nhà trường xem xét giúp em.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9849420785903931,0.831516444683075
+2052,"minh nghi ky tuc xa sach se, an ninh tot",synthetic_template,test,tích cực,thấp,tiêu cực,trung bình,0.908187985420227,0.6874528527259827
+2053,em thấy học phí môn học lại quá cao hy vọng khắc phục sớm.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9851959943771362,0.8270867466926575
+2054,"theo em thì môn tự chọn quá ít, không có nhiều lựa chọn nhà trường xem xét giúp em.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9830576777458191,0.8624147176742554
+2055,"mình nghĩ điều hòa phòng học không mát, rát oi bức hy vọng khắc phục sớm.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9841725826263428,0.7982954382896423
+2056,"ký túc xá sạch sẽ, an ninh tốt em rất hài lòng. haizz",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9898439645767212,0.9774152636528015
+2057,em thấy cho em hỏi cô có nhận hướng dẫn đồ án không ạ?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9901406168937683,0.9359681606292725
+2058,em thấy căng tin đông và thiếu chỗ ngồi.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9823975563049316,0.8313775658607483
+2059,"em thay he thong lms de dung, giao dien dep mong tiep tuc phat huy.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9883434176445007,0.9739287495613098
+2060,"lịch học dày đặc, ko có thời gian tự học hy vọng khắc phục sớm.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9860897064208984,0.8354745507240295
+2061,"mình nghĩ môn tự chọn quá ít, ko có nhiều lựa chọn quá thất vọng.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9822229146957397,0.8278040885925293
+2062,"mình nghĩ ký túc xá sạch sẽ, an ninh tốt",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9895540475845337,0.977512001991272
+2063,"theo em thì ký túc xá sạch sẽ, an ninh tốt cảm ơn nhà trường nhiều.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9899293780326843,0.9763864874839783
+2064,cho em hỏi cô có nhận hướng dẫn đồ án ko ạ ạ.,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9907488226890564,0.9498461484909058
+2065,"lich hoc day dac, khong co thoi gian tu hoc",synthetic_template,test,tiêu cực,trung bình,tích cực,thấp,0.9869025945663452,0.9677850604057312
+2066,căng tin đông và thiếu chỗ ngồi hy vọng khắc phục sớm.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9834380745887756,0.8145449757575989
+2067,"mong nhà trường xem lại: hệ thống lms dễ dùng, giao diện đẹp em rát hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9908626079559326,0.9738984704017639
+2068,"e bị gv gợi ý nộp tiền để dc qua môn, đề nghị trường xử lý gấp em cần dc hỗ trợ ngay!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.959557831287384,0.9916826486587524
+2069,"mong nha truong xem lai: lich hoc day dac, khong co thoi gian tu hoc mong som duoc cai thien.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9586690068244934,0.7307876944541931
+2070,"mình nghĩ điều hòa phòng học không mát, rất oi bức quá thất vọng.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9841190576553345,0.8280428051948547
+2071,"mong nhà trường xem lại: em bị bạn cùng phòng đe dọa nhưng chưa biết báo cho ai rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9517566561698914,0.9917402267456055
+2072,"hệ thống lms dễ dùng, giao diện đẹp",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9889135956764221,0.972518801689148
+2073,"mong nha truong xem lai: dieu hoa phong hoc khong mat, rat oi buc nha truong xem xet giup em.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9274088740348816,0.6865360140800476
+2074,"em thay thu vien yen tinh, nhieu sach hay cam on nha truong nhieu.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9418894648551941,0.8784546852111816
+2075,"môn tự chọn quá ít, không có nhiều lựa chọn",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9790685176849365,0.8244909048080444
+2076,"lich hoc day dac, khong co thoi gian tu hoc qua that vong.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.8014078140258789,0.527679443359375
+2077,căng tin đông và thiếu chỗ ngồi quá thất vọng.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9803841710090637,0.8129822015762329
+2078,mình nghĩ em muốn hỏi thủ tục xin bảo lưu kết quả học tập ạ?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9842740893363953,0.9012101888656616
+2079,"em bị bạn cùng phòng đe dọa nhưng chưa biết báo cho ai rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9545955061912537,0.9915069937705994
+2080,cho em hỏi cô có nhận hướng dẫn đồ án ko ạ,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9905106425285339,0.9476850628852844
+2081,theo em thì cho em hỏi cô có nhận hướng dẫn đồ án không ạ?,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9899305105209351,0.933991551399231
+2082,theo em thì căng tin đông và thiếu chỗ ngồi,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9832474589347839,0.8390876650810242
+2083,"mon tu chon qua it, khong co nhieu lua chon qua that vong.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9795634150505066,0.8136769533157349
+2084,"thư viện yên tĩnh, nhiều sách hay",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9888550639152527,0.9724034070968628
+2085,căng tin đông và thiếu chỗ ngồi,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9813732504844666,0.8078369498252869
+2086,"ký túc xá sạch sẽ, an ninh tốt.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9888433218002319,0.9769407510757446
+2087,"ký túc xá sạch sẽ, an ninh tốt mong tiếp tục phát huy.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9893428087234497,0.977775514125824
+2088,"điều hòa phòng học ko mát, rát oi bức nhà trường xem xét giúp em.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9841302037239075,0.8113146424293518
+2089,mong nha truong xem lai: cho em hoi co co nhan huong dan do an khong a,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9910708665847778,0.935540497303009
+2090,"điều hòa phòng học không mát, rất oi bức",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9824466705322266,0.8347529172897339
+2091,hoc phi mon hoc lai qua cao mong som duoc cai thien.,synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9769706726074219,0.8216348886489868
+2092,em thấy em bị bạn cùng phòng đe dọa nhưng chưa biết báo cho ai em cần được hỗ trợ ngay!,synthetic_template,test,tiêu cực,cao,tiêu cực,cao,0.9507898688316345,0.9910712242126465
+2093,"ký túc xá sạch sẽ, an ninh tốt.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9888433218002319,0.9769407510757446
+2094,em thay xin xac nhan sinh vien phai cho rat lau mong som duoc cai thien.,synthetic_template,test,tiêu cực,thấp,trung lập,thấp,0.9741315245628357,0.8907309770584106
+2095,căng tin đông và thiếu chỗ ngồi quá thất vọng.,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9803841710090637,0.8129822015762329
+2096,"theo em thì hệ thống lms dễ dùng, giao diện đẹp em rất hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9906745553016663,0.9744548201560974
+2097,theo em thì cho em hỏi cô có nhận hướng dẫn đồ án không ạ ạ.,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9895392060279846,0.9365008473396301
+2098,mong nhà trường xem lại: em muốn hỏi thủ tục xin bảo lưu kết quả học tập ạ.,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9902271032333374,0.9418648481369019
+2099,cho em hỏi cô có nhận hướng dẫn đồ án không ạ ạ.,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9906265735626221,0.9490583539009094
+2100,"mình nghĩ lịch học dày đặc, không có thời gian tự học nhà trường xem xét giúp em.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9855535626411438,0.8336644768714905
+2101,xin xác nhận sinh viên phải chờ rất lâu. =((,synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9787514805793762,0.7637179493904114
+2102,"điều hòa phòng học ko mát, rất oi bức hy vọng khắc phục sớm.",synthetic_template,test,tiêu cực,thấp,tiêu cực,trung bình,0.9849350452423096,0.8022243976593018
+2103,"thư viện yên tĩnh, nhiều sách hay",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9888550639152527,0.9724034070968628
+2104,"mong nhà trường xem lại: hệ thống lms dễ dùng, giao diện đẹp em rất hài lòng.",synthetic_template,test,tích cực,thấp,tích cực,thấp,0.9906476140022278,0.9759066700935364
+2105,cho em hỏi cô có nhận hướng dẫn đồ án không ạ? =((,synthetic_template,test,trung lập,thấp,trung lập,thấp,0.9908244609832764,0.9549139738082886
+2106,"em thấy điều hòa phòng học không mát, rất oi bức nhà trường xem xét giúp em.",synthetic_template,test,tiêu cực,trung bình,tiêu cực,trung bình,0.9859077334403992,0.8333947062492371
