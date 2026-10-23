@@ -1,0 +1,71 @@
+{
+  "checkpoint": "checkpoints\\best_phobert\\phobert_multitask_weighted_best.pt",
+  "model_name": "vinai/phobert-base",
+  "split": "test",
+  "n": 254,
+  "predictions_file": "checkpoints\\best_phobert\\phobert_multitask_weighted_best_test_predictions.csv",
+  "latency_ms_mean": 249.05958599999994,
+  "metrics": {
+    "n": 254,
+    "sentiment": {
+      "macro_f1": 0.9929200259475488,
+      "micro_f1": 0.9960629921259843,
+      "weighted_f1": 0.9960927632169414,
+      "confusion_matrix": {
+        "labels": [
+          "tiêu cực",
+          "trung lập",
+          "tích cực"
+        ],
+        "matrix": [
+          [
+            163,
+            1,
+            0
+          ],
+          [
+            0,
+            27,
+            0
+          ],
+          [
+            0,
+            0,
+            63
+          ]
+        ]
+      }
+    },
+    "priority": {
+      "macro_f1": 0.8826289769387246,
+      "micro_f1": 0.8740157480314961,
+      "weighted_f1": 0.8759134778346441,
+      "confusion_matrix": {
+        "labels": [
+          "cao",
+          "thấp",
+          "trung bình"
+        ],
+        "matrix": [
+          [
+            70,
+            0,
+            1
+          ],
+          [
+            0,
+            82,
+            30
+          ],
+          [
+            0,
+            1,
+            70
+          ]
+        ]
+      },
+      "urgent_precision": 1.0,
+      "urgent_recall": 0.9859154929577465
+    }
+  }
+}

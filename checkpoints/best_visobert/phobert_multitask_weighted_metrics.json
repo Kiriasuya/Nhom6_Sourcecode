@@ -1,0 +1,180 @@
+{
+  "architecture": "pretrained_transformer_multitask",
+  "model_kind": "phobert",
+  "model_name": "vinai/phobert-base",
+  "loss": "weighted",
+  "train_n": 1264,
+  "val_n": 254,
+  "best_epoch": 4,
+  "best_val_joint_macro_f1": 0.9496683796083921,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.507696,
+      "val_sentiment_macro_f1": 0.956,
+      "val_priority_macro_f1": 0.716505,
+      "val_joint_macro_f1": 0.836252
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.574772,
+      "val_sentiment_macro_f1": 0.965131,
+      "val_priority_macro_f1": 0.877044,
+      "val_joint_macro_f1": 0.921087
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.390821,
+      "val_sentiment_macro_f1": 0.986471,
+      "val_priority_macro_f1": 0.893033,
+      "val_joint_macro_f1": 0.939752
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.343185,
+      "val_sentiment_macro_f1": 0.990373,
+      "val_priority_macro_f1": 0.908964,
+      "val_joint_macro_f1": 0.949668
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.29763,
+      "val_sentiment_macro_f1": 0.977991,
+      "val_priority_macro_f1": 0.891133,
+      "val_joint_macro_f1": 0.934562
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.281928,
+      "val_sentiment_macro_f1": 0.98231,
+      "val_priority_macro_f1": 0.905498,
+      "val_joint_macro_f1": 0.943904
+    }
+  ],
+  "test": {
+    "n": 254,
+    "sentiment": {
+      "macro_f1": 0.9929200259475488,
+      "micro_f1": 0.9960629921259843,
+      "weighted_f1": 0.9960927632169414,
+      "confusion_matrix": {
+        "labels": [
+          "tiêu cực",
+          "trung lập",
+          "tích cực"
+        ],
+        "matrix": [
+          [
+            163,
+            1,
+            0
+          ],
+          [
+            0,
+            27,
+            0
+          ],
+          [
+            0,
+            0,
+            63
+          ]
+        ]
+      }
+    },
+    "priority": {
+      "macro_f1": 0.8826289769387246,
+      "micro_f1": 0.8740157480314961,
+      "weighted_f1": 0.8759134778346441,
+      "confusion_matrix": {
+        "labels": [
+          "cao",
+          "thấp",
+          "trung bình"
+        ],
+        "matrix": [
+          [
+            70,
+            0,
+            1
+          ],
+          [
+            0,
+            82,
+            30
+          ],
+          [
+            0,
+            1,
+            70
+          ]
+        ]
+      },
+      "urgent_precision": 1.0,
+      "urgent_recall": 0.9859154929577465
+    }
+  },
+  "ood": {
+    "n": 14,
+    "sentiment": {
+      "macro_f1": 0.7488095238095238,
+      "micro_f1": 0.7857142857142857,
+      "weighted_f1": 0.7775510204081632,
+      "confusion_matrix": {
+        "labels": [
+          "tiêu cực",
+          "trung lập",
+          "tích cực"
+        ],
+        "matrix": [
+          [
+            7,
+            1,
+            0
+          ],
+          [
+            1,
+            2,
+            1
+          ],
+          [
+            0,
+            0,
+            2
+          ]
+        ]
+      }
+    },
+    "priority": {
+      "macro_f1": 0.6995670995670995,
+      "micro_f1": 0.7142857142857143,
+      "weighted_f1": 0.736178107606679,
+      "confusion_matrix": {
+        "labels": [
+          "cao",
+          "thấp",
+          "trung bình"
+        ],
+        "matrix": [
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            1,
+            4,
+            1
+          ],
+          [
+            2,
+            0,
+            4
+          ]
+        ]
+      },
+      "urgent_precision": 0.4,
+      "urgent_recall": 1.0
+    }
+  }
+}
