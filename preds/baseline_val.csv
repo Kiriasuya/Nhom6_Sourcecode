@@ -1,0 +1,255 @@
+﻿id,text,y_true_topic,y_pred_topic,y_true_sent,y_pred_sent,y_true_prio,y_pred_prio,y_true_ml,y_pred_ml
+7,Em muốn hỏi về lộ trình các môn chuyên ngành năm 3.,chương trình đào tạo,học phí,trung lập,trung lập,thấp,thấp,chương trình đào tạo,chương trình đào tạo
+11,Em muốn hỏi giờ mở cửa của nhà thi đấu.,cơ sở vật chất,thư viện,trung lập,trung lập,thấp,thấp,cơ sở vật chất,thư viện
+14,Em thay chinh sach hoc bong va mien giam hoc phi rat tot.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+17,Đề cương môn học không cập nhật so với thực tế. Nhà trường xem xét giúp em.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,thấp,trung bình,chương trình đào tạo,chương trình đào tạo
+19,"Một bạn trong phòng em bị ngất, phòng y tế không có người trực. còn môn tiên quyết bị xếp sai khiến em không thể đăng ký học phần và sẽ trễ tiến độ ra trường xin xử lý gấp.",dịch vụ sinh viên,chương trình đào tạo,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên;chương trình đào tạo,chương trình đào tạo;dịch vụ sinh viên
+21,Chính sách học bổng và miễn giảm học phí rất tốt. Mong tiếp tục phát huy.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+29,Mong nhà trường xem lại: em muốn hỏi về lộ trình các môn chuyên ngành năm 3 ạ?,chương trình đào tạo,học phí,trung lập,trung lập,thấp,thấp,chương trình đào tạo,chương trình đào tạo
+34,Phòng y tế thiếu thuốc và nhân viên và đề cương môn học không cập nhật so với thực tế. Mong sớm được cải thiện.,dịch vụ sinh viên,chương trình đào tạo,tiêu cực,tiêu cực,thấp,trung bình,dịch vụ sinh viên;chương trình đào tạo,chương trình đào tạo;dịch vụ sinh viên
+53,Xin xác nhận sinh viên phải chờ rất lâu. Còn cô trả lời email của sinh viên rất chậm.,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,trung bình,trung bình,thủ tục hành chính;giảng viên,giảng viên;thủ tục hành chính
+55,Em muốn hỏi thủ tục xin bảo lưu kết quả học tập.,thủ tục hành chính,thư viện,trung lập,trung lập,thấp,thấp,thủ tục hành chính,
+61,"Giảng viên chấm điểm không rõ ràng, không công bố tiêu chí. Nhà trường xem xét giúp em.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+62,Em muốn hỏi thủ tục xin bảo lưu kết quả học tập ạ.,thủ tục hành chính,thư viện,trung lập,trung lập,thấp,thấp,thủ tục hành chính,
+72,Mong nha truong xem lai: em muon hoi gio mo cua cua nha thi dau a.,cơ sở vật chất,thư viện,trung lập,trung lập,thấp,thấp,cơ sở vật chất,
+90,Cho em hoi co co nhan huong dan do an khong a? haizz.,giảng viên,thủ tục hành chính,trung lập,trung lập,thấp,thấp,giảng viên,thủ tục hành chính
+105,"Hệ thống lms dễ dùng, giao diện đẹp, ngoài ra phòng thực hành trang bị máy móc mới.",hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp,hệ thống công nghệ thông tin;cơ sở vật chất,cơ sở vật chất;hệ thống công nghệ thông tin
+107,Theo em thi cang tin dong va thieu cho ngoi.,cơ sở vật chất,học phí,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+110,"Mình nghĩ giảng viên chấm điểm không rõ ràng, không công bố tiêu chí. Hy vọng khắc phục sớm.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+119,Mong nhà trường xem lại: câu lạc bộ và hoạt động sinh viên rất sôi nổi.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+121,Em thấy e muốn hỏi thủ tục xin bảo lưu kết quả học tập?,thủ tục hành chính,thư viện,trung lập,trung lập,thấp,thấp,thủ tục hành chính,
+133,"Thầy giảng dễ hiểu, nhiệt tình hỗ trợ sinh viên, đồng thời câu lạc bộ và hoạt động sinh viên rất sôi nổi. Mong tiếp tục phát huy.",giảng viên,giảng viên,tích cực,tích cực,thấp,thấp,giảng viên;dịch vụ sinh viên,dịch vụ sinh viên;giảng viên
+140,"Học phí tăng nhưng chất lượng không cải thiện, đồng thời bộ phận một cửa làm việc chậm, thái độ không tốt. Hy vọng khắc phục sớm.",học phí,thủ tục hành chính,tiêu cực,tiêu cực,thấp,trung bình,học phí;thủ tục hành chính,học phí;thủ tục hành chính
+142,Mong nhà trường xem lại: chính sách học bổng và miễn giảm học phí rất tốt.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+155,Mong nhà trường xem lại: hệ thống lms thường xuyên báo lỗi khi nộp bài. Quá thất vọng.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+157,Theo em thi chinh sach hoc bong va mien giam hoc phi rat tot. Mong tiep tuc phat huy.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+174,Cho em hỏi cô có nhận hướng dẫn đồ án không ạ.,giảng viên,giảng viên,trung lập,trung lập,thấp,thấp,giảng viên,giảng viên
+178,"Mình nghĩ trần phòng học bị thấm nước và rơi vữa, rát nguy hiểm cho sinh viên. Em cần được hỗ trợ ngay!",cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,cao,cao,cơ sở vật chất,cơ sở vật chất
+180,Mong nha truong xem lai: de cuong mon hoc khong cap nhat so voi thuc te. Hy vong khac phuc som.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,thấp,thấp,chương trình đào tạo,chương trình đào tạo
+181,Mong nhà trường xem lại: cho em hỏi cô có nhận hướng dẫn đồ án không ạ haizz.,giảng viên,giảng viên,trung lập,trung lập,thấp,thấp,giảng viên,giảng viên
+199,Em muốn hỏi giờ mở cửa của nhà thi đấu ạ.,cơ sở vật chất,thư viện,trung lập,trung lập,thấp,thấp,cơ sở vật chất,thư viện
+200,Em thấy căng tin đông và thiếu chỗ ngồi.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,thấp,trung bình,cơ sở vật chất,cơ sở vật chất
+203,Em muốn hỏi về lộ trình các môn chuyên ngành năm 3 ạ.,chương trình đào tạo,học phí,trung lập,trung lập,thấp,thấp,chương trình đào tạo,chương trình đào tạo
+215,Câu lạc bộ và hoạt động sinh viên rất sôi nổi. Em rất hài lòng.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+216,Em thấy đề cương môn học không cập nhật so với thực tế.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo,chương trình đào tạo
+219,"Thủ tục xin giấy xác nhận nhanh gọn, đồng thời thư viện yên tĩnh, nhiều sách hay.",thủ tục hành chính,thư viện,tích cực,tích cực,thấp,thấp,thủ tục hành chính;thư viện,thư viện;thủ tục hành chính
+226,Thư viện thiếu giáo trình mới.,thư viện,thư viện,tiêu cực,tiêu cực,thấp,trung bình,thư viện,thư viện
+237,"Em cần giấy xác nhận để làm visa du học nhưng đã chờ hai tuần chưa có, còn 2 ngày nữa là hết hạn và trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sv. Xin xử lý gấp.",thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao,thủ tục hành chính;cơ sở vật chất,cơ sở vật chất;thủ tục hành chính
+240,Căng tin đông và thiếu chỗ ngồi. Mong sớm được cải thiện.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+246,"Trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sinh viên. Rất khẩn cấp, mong phản hồi sớm!",cơ sở vật chất,giảng viên,tiêu cực,tiêu cực,cao,cao,cơ sở vật chất,cơ sở vật chất
+249,Mong nhà trường xem lại: hệ thống lms thường xuyên báo lỗi khi nộp bài.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+250,Mình nghĩ căng tin đông và thiếu chỗ ngồi. Hy vọng khắc phục sớm.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+252,Mình nghĩ chính sách học bổng và miễn giảm học phí rất tốt. Mong tiếp tục phát huy.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+284,Mong trường xe lại: câu lạc bộ và hoạt động sinh viên rất sôi nổi. Mong tiếp tục phát huy.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+288,"Thư viện yên tĩnh, nhiều sách hay, ngoài ra hệ thống LMS dễ dùng, giao diện đẹp.",thư viện,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp,thư viện;hệ thống công nghệ thông tin,hệ thống công nghệ thông tin;thư viện
+295,"Bảo vệ cổng trường thái độ chưa tốt, ngoài ra căng tin đông và thiếu chỗ ngồi.",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình,dịch vụ sinh viên;cơ sở vật chất,cơ sở vật chất;dịch vụ sinh viên
+299,Em thấy hệ thống lms thường xuyên báo lỗi khi nộp bài.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+303,Em thấy câu lạc bộ và hoạt động sinh viên rất sôi nổi. Mong tiếp tục phát huy.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+304,"Giảng viên chấm điểm không rõ ràng, không công bố tiêu chí. Mong sớm được cải thiện.",giảng viên,giảng viên,tiêu cực,tiêu cực,thấp,trung bình,giảng viên,giảng viên
+326,Cau lac bo va hoat dong sinh vien rat soi noi.,dịch vụ sinh viên,giảng viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+328,Em thấy thư viện thiếu giáo trình mới. Mong sớm được cải thiện.,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình,thư viện,thư viện
+329,Cho em hỏi thư viện có sách điện tử không?,thư viện,thư viện,trung lập,trung lập,thấp,thấp,thư viện,thư viện
+331,"Em bị tính thừa học phí hai lần, đã liên hệ nhiều lần mà chưa được giải quyết, hạn đóng là ngày mai, đồng thời giảng viên có lời lẽ xúc phạm sinh viên ngay trong lớp, nhiều bạn rất bức xúc. Nhờ nhà trường xử lý gấp ạ!",học phí,giảng viên,tiêu cực,tiêu cực,cao,cao,học phí;giảng viên,giảng viên;học phí
+333,Mình nghĩ đề cương môn học không cập nhật so với thực tế. Hy vọng khắc phục sớm.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,thấp,trung bình,chương trình đào tạo,chương trình đào tạo
+345,Theo em thì đề cương môn học không cập nhật so với thực tế.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo,chương trình đào tạo
+351,"Xin xác nhận sinh viên phải chờ rất lâu, ngoài ra phòng đọc ồn, khó tập trung.",thủ tục hành chính,thư viện,tiêu cực,tiêu cực,trung bình,trung bình,thủ tục hành chính;thư viện,thư viện;thủ tục hành chính
+357,Chính sách học bổng và miễn giảm học phí rất tốt.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+361,Theo e thì e muốn hỏi thủ tục xin bảo lưu kết quả học tập.,thủ tục hành chính,thư viện,trung lập,trung lập,thấp,thấp,thủ tục hành chính,
+368,Đề cương môn học không cập nhật so với thực tế.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo,chương trình đào tạo
+375,Câu lạc bộ và hoạt động sinh viên rất sôi nổi. huhu.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+378,"Mình nghĩ giảng viên chấm điểm không rõ ràng, không công bố tiêu chí. Mong sớm được cải thiện.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,thấp,giảng viên,giảng viên
+392,Theo em thì câu lạc bộ và hoạt động sinh viên rất sôi nổi. Cảm ơn nhà trường nhiều.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+393,Xin xác nhận sv phải chờ rát lâu. Còn đề cương môn học ko cập nhật so vs thực tế. Hy vọng khắc phục sớm.,thủ tục hành chính,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,thủ tục hành chính;chương trình đào tạo,chương trình đào tạo;thủ tục hành chính
+401,"Giảng viên chấm điểm không rõ ràng, không công bố tiêu chí, đồng thời phòng đọc ồn, khó tập trung. Quá thất vọng.",giảng viên,thư viện,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên;thư viện,giảng viên;thư viện
+434,Mong nhà trường xem lại: căng tin đông và thiếu chỗ ngồi.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+436,"Hệ thống lms thường xuyên báo lỗi khi nộp bài, đồng thời học phí môn học lại quá cao.",hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình,hệ thống công nghệ thông tin;học phí,hệ thống công nghệ thông tin;học phí
+452,Mong nhà trường xem lại: căng tin đông và thiếu chỗ ngồi. Hy vọng khắc phục sớm.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+468,"Xin xac nhan sinh vien phai cho rat lau, ngoai ra hoat dong ngoai khoa it, khong da dang. Hy vong khac phuc som.",thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,thấp,thấp,thủ tục hành chính;dịch vụ sinh viên,dịch vụ sinh viên;thủ tục hành chính
+469,"Chinh sach hoc bong va mien giam hoc phi rat tot. Con de cuong mon hoc ro rang, bam sat thuc te. Cam on nha truong nhieu.",học phí,học phí,tích cực,tích cực,thấp,thấp,học phí;chương trình đào tạo,chương trình đào tạo
+493,Em thấy đề cương môn học không cập nhật so với thực tế. Quá thất vọng.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo,chương trình đào tạo
+503,Mong nhà trường xem lại: căng tin đông và thiếu chỗ ngồi. Nhà trường xem xét giúp em.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+511,"Mình nghĩ giảng viên chấm điểm không rõ ràng, không công bố tiêu chí. Nhà trường xem xét giúp em.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+516,Cho e hỏi cô có nhận hướng dẫn đồ án ko ạ.,giảng viên,giảng viên,trung lập,trung lập,thấp,thấp,giảng viên,giảng viên
+524,Cho em hỏi cô có nhận hướng dẫn đồ án không ạ? huhu.,giảng viên,giảng viên,trung lập,trung lập,thấp,thấp,giảng viên,giảng viên
+550,Mình nghĩ căng tin đông và thiếu chỗ ngồi. Mong sớm được cải thiện.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+556,He thong lms thuong xuyen bao loi khi nop bai va cang tin dong va thieu cho ngoi. Mong som duoc cai thien.,hệ thống công nghệ thông tin,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình,hệ thống công nghệ thông tin;cơ sở vật chất,cơ sở vật chất
+562,Theo em thì câu lạc bộ và hoạt động sinh viên rất sôi nổi. Em rất hài lòng.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+567,"Thư viện yên tĩnh, nhiều sách hay, ngoài ra chính sách học bổng và miễn giảm học phí rất tốt. Em rất hài lòng.",thư viện,thư viện,tích cực,tích cực,thấp,thấp,thư viện;học phí,học phí;thư viện
+573,Em thấy e muốn hỏi giờ mở cửa của nhà thi đấu ạ?,cơ sở vật chất,thư viện,trung lập,trung lập,thấp,thấp,cơ sở vật chất,
+586,"Theo em thì giảng viên chấm điểm không rõ ràng, không công bố tiêu chí.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+587,Thư viện thiếu giáo trình mới. Nhà trường xem xét giúp em.,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình,thư viện,thư viện
+589,Em thấy căng tin đông và thiếu chỗ ngồi. Hy vọng khắc phục sớm.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+592,"Bo phan mot cua lam viec cham, thai do khong tot, dong thoi mon hoc trung lap noi dung giua cac hoc ky. Qua that vong.",thủ tục hành chính,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,thủ tục hành chính;chương trình đào tạo,chương trình đào tạo;thủ tục hành chính
+597,Theo em thì căng tin đông và thiếu chỗ ngồi. Quá thất vọng.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+607,"Khong co hinh thuc dong hoc phi tra gop, ngoai ra co tra loi email cua sinh vien rat cham. Hy vong khac phuc som.",học phí,giảng viên,tiêu cực,tiêu cực,trung bình,thấp,học phí;giảng viên,giảng viên;học phí
+616,Theo em thi chinh sach hoc bong va mien giam hoc phi rat tot.,học phí,học phí,tích cực,tiêu cực,thấp,thấp,học phí,học phí
+624,Em thấy chính sách học bổng và miễn giảm học phí rất tốt. Cảm ơn nhà trường nhiều.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+635,Câu lạc bộ và hoạt động sinh viên rất sôi nổi. Cảm ơn nhà trường nhiều.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+639,"Môn học trùng lặp nội dung giữa các học kỳ, đồng thời căng tin đông và thiếu chỗ ngồi. Hy vọng khắc phục sớm.",chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo;cơ sở vật chất,chương trình đào tạo;cơ sở vật chất
+644,"Mong nhà trường xem lại: giảng viên chấm điểm không rõ ràng, không công bố tiêu chí. Mong sớm được cải thiện.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+648,"Gv chấm điểm không rõ ràng, không công bố tiêu chí mong sớm dc cải thiện.",giảng viên,học phí,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+652,Mong nhà trường xem lại: chính sách học bổng và miễn giảm học phí rất tốt. Cảm ơn nhà trường nhiều.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+653,Hệ thống lms thường xuyên báo lỗi khi nộp bài. Quá thất vọng.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+655,"Bộ phận một cửa làm việc chậm, thái độ không tốt, ngoài ra ứng dụng di động của trường hay bị văng. Mong sớm được cải thiện.",thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,trung bình,trung bình,thủ tục hành chính;hệ thống công nghệ thông tin,hệ thống công nghệ thông tin;thủ tục hành chính
+659,"Giảng viên chấm điểm ko rõ ràng, ko công bố tiêu chí. Nhà trường xe xét giúp e.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+661,Đề cương môn học không cập nhật so với thực tế. Hy vọng khắc phục sớm.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo,chương trình đào tạo
+663,Đề cương môn học ko cập nhật so với thực tế.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,thấp,trung bình,chương trình đào tạo,chương trình đào tạo
+669,Mong nhà trường xem lại: đề cương môn học không cập nhật so với thực tế. Nhà trường xem xét giúp em.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo,chương trình đào tạo
+680,Bảo vệ cổng trường thái độ chưa tốt và môn học trùng lặp nội dung giữa các học kỳ.,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình,dịch vụ sinh viên;chương trình đào tạo,chương trình đào tạo;dịch vụ sinh viên
+684,"Mong nhà trường xem lại: giảng viên chấm điểm không rõ ràng, không công bố tiêu chí.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+687,"Giang vien cham diem khong ro rang, khong cong bo tieu chi. Con lich hoc day dac, khong co thoi gian tu hoc. Hy vong khac phuc som.",giảng viên,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên;chương trình đào tạo,chương trình đào tạo
+689,"Gv chấm điểm ko rõ ràng, ko công bố tiêu chí. Nhà trường xem xét giúp em.",giảng viên,học phí,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+696,Em thấy đề cương môn học không cập nhật so với thực tế. Mong sớm được cải thiện.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo,chương trình đào tạo
+698,"Giấy tờ phải nộp bản cứng dù đã có hệ thống online, ngoài ra giảng viên chấm điểm không rõ ràng, không công bố tiêu chí.",thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,trung bình,trung bình,thủ tục hành chính;giảng viên,giảng viên;thủ tục hành chính
+701,Mong nhà trường xem lại: đề cương môn học không cập nhật so với thực tế. Mong sớm được cải thiện.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,thấp,trung bình,chương trình đào tạo,chương trình đào tạo
+711,Em thấy hệ thống lms thường xuyên báo lỗi khi nộp bài. Nhà trường xem xét giúp em.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+715,Theo e thì cho e hỏi cô có nhận hướng dẫn đồ án không ạ?,giảng viên,giảng viên,trung lập,trung lập,thấp,thấp,giảng viên,giảng viên
+716,"Ký túc xá thường xuyên mất nước, ngoài ra ổ cắm điện thư viện ko đủ.",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình,dịch vụ sinh viên;thư viện,dịch vụ sinh viên;thư viện
+717,"Giảng viên chấm điểm ko rõ ràng, ko công bố tiêu chí.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+720,"Giảng viên chấm điểm không rõ ràng, không công bố tiêu chí. Nhà trường xe xét giúp e.",giảng viên,giảng viên,tiêu cực,tiêu cực,thấp,trung bình,giảng viên,giảng viên
+733,Theo em thì học phí bị tính sai nên em có nguy cơ bị buộc thôi học. Em cần được hỗ trợ ngay!,học phí,học phí,tiêu cực,tiêu cực,cao,cao,học phí,học phí
+746,Hệ thống lms thường xuyên báo lỗi khi nộp bài.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+749,Cho em hỏi thư viện có sách điện tử không ạ.,thư viện,thư viện,trung lập,trung lập,thấp,thấp,thư viện,thư viện
+751,"Giảng viên chấm điểm không rõ ràng, không công bố tiêu chí. Hy vọng khắc phục sớm.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+758,Theo em thì căng tin đông và thiếu chỗ ngồi. Nhà trường xem xét giúp em.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+771,"Theo e thì giảng viên chấm điểm ko rõ ràng, ko công bố tiêu chí.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+776,Học phí bị tính sai nên e có nguy cơ bị buộc thôi học. Em cần được hỗ trợ ngay! haizz.,học phí,học phí,tiêu cực,tiêu cực,cao,cao,học phí,học phí
+778,"Em thấy trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sinh viên. Em cần được hỗ trợ ngay!",cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,cao,cao,cơ sở vật chất,cơ sở vật chất
+784,Mong trường xe lại: học phí bị tính sai nên e có nguy cơ bị buộc thôi học. Xin xử lý gấp.,học phí,học phí,tiêu cực,tiêu cực,cao,cao,học phí,học phí
+807,"Bộ phận một cửa làm việc chậm, thái độ không tốt, ngoài ra ứng dụng di động của trường hay bị văng.",thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,trung bình,trung bình,thủ tục hành chính;hệ thống công nghệ thông tin,hệ thống công nghệ thông tin;thủ tục hành chính
+814,"Trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sinh viên. Nhờ nhà trường xử lý gấp ạ!",cơ sở vật chất,giảng viên,tiêu cực,tiêu cực,cao,cao,cơ sở vật chất,cơ sở vật chất
+836,"Hệ thống lms thường xuyên báo lỗi khi nộp bài và phòng đọc ồn, khó tập trung. Quá thất vọng.",hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,trung bình,hệ thống công nghệ thông tin;thư viện,hệ thống công nghệ thông tin;thư viện
+838,"Mong nhà trường xem lại: ký túc xá bị mất trộm liên tục, sinh viên rất lo lắng về an ninh xin xử lý gấp.",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên,dịch vụ sinh viên
+840,Mình nghĩ câu lạc bộ và hoạt động sinh viên rất sôi nổi.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+846,"Em thấy giảng viên chấm điểm không rõ ràng, không công bố tiêu chí nhà trường xem xét giúp em.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+853,"Em thay ky tuc xa bi mat trom lien tuc, sinh vien rat lo lang ve an ninh. Xin xu ly gap.",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên,dịch vụ sinh viên
+861,Mong nhà trường xem lại: em muốn hỏi về lộ trình các môn chuyên ngành năm 3?,chương trình đào tạo,học phí,trung lập,trung lập,thấp,thấp,chương trình đào tạo,chương trình đào tạo
+875,"Học phí tăng nhưng chất lượng không cải thiện và thầy dạy quá nhanh, sinh viên không theo kịp.",học phí,học phí,tiêu cực,tiêu cực,trung bình,trung bình,học phí;giảng viên,giảng viên;học phí
+883,Đề cương môn học không cập nhật so với thực tế. Còn ổ cắm điện thư viện không đủ. Hy vọng khắc phục sớm.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo;thư viện,chương trình đào tạo;thư viện
+886,"Ky tuc xa bi mat trom lien tuc, sinh vien rat lo lang ve an ninh. Rat khan cap, mong phan hoi som!",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên,dịch vụ sinh viên
+897,"O cam dien thu vien khong du, dong thoi email truong hay vao spam. Qua that vong.",thư viện,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,trung bình,thư viện;hệ thống công nghệ thông tin,hệ thống công nghệ thông tin;thư viện
+908,"Tín chỉ thực tập quá ít so với yêu cầu doanh nghiệp, đồng thời hệ thống LMS thường xuyên báo lỗi khi nộp bài. Hy vọng khắc phục sớm.",chương trình đào tạo,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo;hệ thống công nghệ thông tin,chương trình đào tạo;hệ thống công nghệ thông tin
+935,"Giảng viên chấm điểm ko rõ ràng, ko công bố tiêu chí. Mong sớm được cải thiện.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+939,Mong nhà trường xem lại: đề cương môn học không cập nhật so với thực tế.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,thấp,trung bình,chương trình đào tạo,chương trình đào tạo
+942,Học phí môn học lại quá cao và hệ thống LMS thường xuyên báo lỗi khi nộp bài. Nhà trường xem xét giúp em. huhu.,học phí,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình,học phí;hệ thống công nghệ thông tin,hệ thống công nghệ thông tin;học phí
+958,Thư viện thiếu giáo trình mới. Nhà trường xe xét giúp e.,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình,thư viện,thư viện
+960,Mong trường xem lại: hệ thống lms thường xuyên báo lỗi khi nộp bài. Quá thất vọng.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+961,Mong trường xe lại: e muốn hỏi về lộ trình các môn chuyên ngành năm 3 ạ.,chương trình đào tạo,học phí,trung lập,trung lập,thấp,thấp,chương trình đào tạo,chương trình đào tạo
+965,"Gv chấm điểm ko rõ ràng, ko công bố tiêu chí. Hy vọng khắc phục sớm.",giảng viên,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+970,"Giảng viên chấm điểm không rõ ràng, không công bố tiêu chí. Quá thất vọng.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+977,Mong nhà trường xem lại: em muốn hỏi giờ mở cửa của nhà thi đấu?,cơ sở vật chất,thư viện,trung lập,trung lập,thấp,thấp,cơ sở vật chất,
+985,Căng tin đông và thiếu chỗ ngồi.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+987,Theo e thì thư viện thiếu giáo trình mới. Hy vọng khắc phục sớm.,thư viện,thư viện,tiêu cực,tiêu cực,thấp,trung bình,thư viện,thư viện
+993,Em thấy câu lạc bộ và hoạt động sv rất sôi nổi.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+1002,Em thấy cho e hỏi cô có nhận hướng dẫn đồ án không ạ.,giảng viên,giảng viên,trung lập,trung lập,thấp,thấp,giảng viên,giảng viên
+1010,"Bo phan mot cua lam viec cham, thai do khong tot va hoc phi tang nhung chat luong khong cai thien. Nha truong xem xet giup em.",thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,trung bình,trung bình,thủ tục hành chính;học phí,học phí;thủ tục hành chính
+1011,Xin xác nhận sinh viên phải chờ rất lâu. Còn bảo vệ cổng trường thái độ chưa tốt. Quá thất vọng.,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,trung bình,trung bình,thủ tục hành chính;dịch vụ sinh viên,dịch vụ sinh viên;thủ tục hành chính
+1013,Theo em thì chính sách học bổng và miễn giảm học phí rất tốt. Em rất hài lòng.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+1014,Đề cương môn học ko cập nhật so vs thực tế hy vọng khắc phục sớm.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo,chương trình đào tạo
+1023,"Em thấy ký túc xá bị mất trộm liên tục, sinh viên rất lo lắng về an ninh. Rất khẩn cấp, mong phản hồi sớm!",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên,dịch vụ sinh viên
+1026,"Giảng viên chấm điểm không rõ ràng, không công bố tiêu chí và học phí môn học lại quá cao. Quá thất vọng.",giảng viên,học phí,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên;học phí,giảng viên;học phí
+1027,Hệ thống lms thường xuyên báo lỗi khi nộp bài. Mong sớm được cải thiện. huhu.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+1030,"Ký túc xá bị mất trộm liên tục, sinh viên rất lo lắng về an ninh. Xin xử lý gấp.",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên,dịch vụ sinh viên
+1037,"Mình nghĩ trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sinh viên. Rất khẩn cấp, mong phản hồi sớm!",cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,cao,cao,cơ sở vật chất,cơ sở vật chất
+1046,"Giảng viên chấm điểm không rõ ràng, không công bố tiêu chí.",giảng viên,giảng viên,tiêu cực,tiêu cực,thấp,trung bình,giảng viên,giảng viên
+1057,E muốn hỏi về lộ trình các môn chuyên ngành năm 3 ạ.,chương trình đào tạo,học phí,trung lập,trung lập,thấp,thấp,chương trình đào tạo,chương trình đào tạo
+1064,Mình nghĩ câu lạc bộ và hoạt động sinh viên rất sôi nổi. Mong tiếp tục phát huy.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+1067,Theo em thì thư viện thiếu giáo trình mới. Quá thất vọng.,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình,thư viện,thư viện
+1068,Mình nghĩ thư viện thiếu giáo trình mới. Mong sớm được cải thiện.,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,thấp,thư viện,thư viện
+1069,"Mong nhà trường xem lại: ký túc xá bị mất trộm liên tục, sinh viên rất lo lắng về an ninh. Rất khẩn cấp, mong phản hồi sớm!",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên,dịch vụ sinh viên
+1072,Em thấy câu lạc bộ và hoạt động sinh viên rất sôi nổi.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+1076,"Trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sv. Nhờ nhà trường xử lý gấp ạ!",cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,cao,cao,cơ sở vật chất,cơ sở vật chất
+1079,Theo em thì hệ thống lms thường xuyên báo lỗi khi nộp bài. Hy vọng khắc phục sớm.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+1084,Đề cương môn học không cập nhật so với thực tế. Mong sớm được cải thiện.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo,chương trình đào tạo
+1085,"Mong nhà trường xem lại: giảng viên chấm điểm không rõ ràng, không công bố tiêu chí. Hy vọng khắc phục sớm.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+1086,"Thay giang de hieu, nhiet tinh ho tro sinh vien, ngoai ra thu thu than thien, ho tro tra cuu nhanh.",giảng viên,giảng viên,tích cực,tích cực,thấp,thấp,giảng viên;thư viện,giảng viên;thư viện
+1092,Câu lạc bộ và hoạt động sv rát sôi nổi.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+1103,"Xin xac nhan sinh vien phai cho rat lau, dong thoi hoat dong ngoai khoa it, khong da dang.",thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,trung bình,trung bình,thủ tục hành chính;dịch vụ sinh viên,dịch vụ sinh viên;thủ tục hành chính
+1115,"Bãi giữ xe chật, thường xuyên quá tải. Còn giảng viên chấm điểm không rõ ràng, không công bố tiêu chí. Nhà trường xem xét giúp em.",cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất;giảng viên,cơ sở vật chất;giảng viên
+1116,Hệ thống lms thường xuyên báo lỗi khi nộp bài. Mong sớm được cải thiện.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+1120,"Ký túc xá bị mất trộm liên tục, sinh viên rất lo lắng về an ninh. Em cần được hỗ trợ ngay!",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên,dịch vụ sinh viên
+1154,"Bảo vệ cổng trường thái độ chưa tốt, ngoài ra email trường hay vào spam.",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình,dịch vụ sinh viên;hệ thống công nghệ thông tin,dịch vụ sinh viên;hệ thống công nghệ thông tin
+1155,"Chính sách học bổng và miễn giảm học phí rất tốt, ngoài ra đề cương môn học rõ ràng, bám sát thực tế.",học phí,học phí,tích cực,tích cực,thấp,thấp,học phí;chương trình đào tạo,chương trình đào tạo;học phí
+1172,"Theo em thì trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sinh viên. Em cần được hỗ trợ ngay!",cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,cao,cao,cơ sở vật chất,cơ sở vật chất
+1174,Cong dang ky hoc phan muot hon hoc ky truoc. Con chinh sach hoc bong va mien giam hoc phi rat tot. Cam on nha truong nhieu.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp,hệ thống công nghệ thông tin;học phí,hệ thống công nghệ thông tin
+1179,"Học phí môn học lại quá cao, ngoài ra cô trả lời email của sinh viên rất chậm. Quá thất vọng.",học phí,học phí,tiêu cực,tiêu cực,trung bình,trung bình,học phí;giảng viên,giảng viên;học phí
+1188,Mong nhà trường xem lại: cho em hỏi cô có nhận hướng dẫn đồ án không ạ.,giảng viên,giảng viên,trung lập,trung lập,thấp,thấp,giảng viên,giảng viên
+1190,Em thấy chính sách học bổng và miễn giảm học phí rất tốt. Em rất hài lòng.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+1192,Hệ thống lms thường xuyên báo lỗi khi nộp bài. Nhà trường xem xét giúp em.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+1198,Theo e thì hệ thống lms thường xuyên báo lỗi khi nộp bài. Hy vọng khắc phục sớm.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+1206,Câu lạc bộ và hoạt động sinh viên rất sôi nổi. Cảm ơn nhà trường nhiều. haizz.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+1218,Đề cương môn học không cập nhật so với thực tế. Quá thất vọng.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo,chương trình đào tạo
+1226,"Cau lac bo va hoat dong sinh vien rat soi noi, ngoai ra thay giang de hieu, nhiet tinh ho tro sinh vien. Cam on nha truong nhieu.",dịch vụ sinh viên,giảng viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên;giảng viên,dịch vụ sinh viên;giảng viên
+1255,Mình nghĩ hệ thống lms thường xuyên báo lỗi khi nộp bài. Mong sớm được cải thiện.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+1268,Minh nghi cang tin dong va thieu cho ngoi.,cơ sở vật chất,học phí,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+1277,Em thấy câu lạc bộ và hoạt động sv rất sôi nổi cảm ơn trường nhiều.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+1279,Học phí bị tính sai nên em có nguy cơ bị buộc thôi học. Nhờ nhà trường xử lý gấp ạ! huhu.,học phí,học phí,tiêu cực,tiêu cực,cao,cao,học phí,học phí
+1284,Chính sách học bổng và miễn giảm học phí rất tốt và phòng tư vấn tâm lý hỗ trợ tận tình. Cảm ơn nhà trường nhiều.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí;dịch vụ sinh viên,dịch vụ sinh viên;học phí
+1297,Căng tin đông và thiếu chỗ ngồi. Nhà trường xem xét giúp em.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,thấp,trung bình,cơ sở vật chất,cơ sở vật chất
+1303,Câu lạc bộ và hoạt động sinh viên rất sôi nổi. Mong tiếp tục phát huy.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+1307,"Ký túc xá bị mất trộm liên tục, sinh viên rất lo lắng về an ninh, ngoài ra em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Nhờ nhà trường xử lý gấp ạ!",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên;chương trình đào tạo,chương trình đào tạo;dịch vụ sinh viên
+1308,"Ky tuc xa bi mat trom lien tuc, sinh vien rat lo lang ve an ninh va ho so xet tot nghiep cua em bi that lac, sap het han nop, em rat lo. Rat khan cap, mong phan hoi som!",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên;thủ tục hành chính,dịch vụ sinh viên;thủ tục hành chính
+1319,"Thư viện yên tĩnh, nhiều sách hay. Còn chính sách học bổng và miễn giảm học phí rất tốt.",thư viện,thư viện,tích cực,tích cực,thấp,thấp,thư viện;học phí,học phí;thư viện
+1326,"Phong y te thieu thuoc va nhan vien, ngoai ra de cuong mon hoc khong cap nhat so voi thuc te.",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,thấp,dịch vụ sinh viên;chương trình đào tạo,chương trình đào tạo;dịch vụ sinh viên
+1328,Mong nhà trường xem lại: thư viện thiếu giáo trình mới.,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình,thư viện,thư viện
+1332,Em thấy e muốn hỏi giờ mở cửa của nhà thi đấu.,cơ sở vật chất,thư viện,trung lập,trung lập,thấp,thấp,cơ sở vật chất,
+1337,"Phòng học sạch sẽ, thoáng mát. Còn thủ tục xin giấy xác nhận nhanh gọn.",cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp,cơ sở vật chất;thủ tục hành chính,cơ sở vật chất;thủ tục hành chính
+1352,"Môn tiên quyết bị xếp sai khiến em ko thể đăng ký học phần và sẽ trễ tiến độ ra trường, ngoài ra một bạn trong phòng em bị ngất, phòng y tế ko có người trực. Xin xử lý gấp.",chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,cao,cao,chương trình đào tạo;dịch vụ sinh viên,chương trình đào tạo;dịch vụ sinh viên
+1355,Thư viện thiếu giáo trình mới. Hy vọng khắc phục sớm.,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình,thư viện,thư viện
+1362,"Theo em thì trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sinh viên. Xin xử lý gấp.",cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,cao,cao,cơ sở vật chất,cơ sở vật chất
+1378,Chính sách học bổng và miễn giảm học phí rát tốt. Cảm ơn trường nhiều.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+1387,Các khoản thu đầu năm không rõ ràng. còn môn học trùng lặp nội dung giữa các học kỳ.,học phí,chương trình đào tạo,tiêu cực,tiêu cực,thấp,trung bình,học phí;chương trình đào tạo,chương trình đào tạo;học phí
+1396,"Theo em thi ky tuc xa bi mat trom lien tuc, sinh vien rat lo lang ve an ninh. Em can duoc ho tro ngay!",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên,dịch vụ sinh viên
+1400,"Em thấy giảng viên chấm điểm không rõ ràng, không công bố tiêu chí.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+1406,"Giang vien cham diem khong ro rang, khong cong bo tieu chi. Con may chieu phong hoc hay hong. Mong som duoc cai thien.",giảng viên,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên;cơ sở vật chất,cơ sở vật chất
+1410,Mình nghĩ chính sách học bổng và miễn giảm học phí rất tốt.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+1413,Cho e hỏi cô có nhận hướng dẫn đồ án không ạ.,giảng viên,giảng viên,trung lập,trung lập,thấp,thấp,giảng viên,giảng viên
+1418,"Bai giu xe chat, thuong xuyen qua tai, ngoai ra he thong LMS thuong xuyen bao loi khi nop bai.",cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,thấp,thấp,cơ sở vật chất;hệ thống công nghệ thông tin,cơ sở vật chất
+1426,"Theo em thì trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sinh viên. Rất khẩn cấp, mong phản hồi sớm!",cơ sở vật chất,giảng viên,tiêu cực,tiêu cực,cao,cao,cơ sở vật chất,cơ sở vật chất
+1441,"Học phí môn học lại quá cao, ngoài ra hệ thống LMS thường xuyên báo lỗi khi nộp bài. Nhà trường xem xét giúp em.",học phí,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình,học phí;hệ thống công nghệ thông tin,hệ thống công nghệ thông tin;học phí
+1443,"Học phí tăng nhưng chất lượng không cải thiện, đồng thời giấy tờ phải nộp bản cứng dù đã có hệ thống online.",học phí,học phí,tiêu cực,tiêu cực,trung bình,trung bình,học phí;thủ tục hành chính,học phí;thủ tục hành chính
+1447,Chính sách học bổng và miễn giảm học phí rất tốt. Cảm ơn nhà trường nhiều.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+1462,Theo em thì chính sách học bổng và miễn giảm học phí rất tốt. Cảm ơn nhà trường nhiều.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+1463,Em thấy thư viện thiếu giáo trình mới. Hy vọng khắc phục sớm.,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình,thư viện,thư viện
+1487,"Em thấy gv chấm điểm ko rõ ràng, ko công bố tiêu chí. Mong sớm được cải thiện.",giảng viên,học phí,tiêu cực,tiêu cực,thấp,trung bình,giảng viên,giảng viên
+1498,"Thủ tục xin giấy xác nhận nhanh gọn và phòng học sạch sẽ, thoáng mát.",thủ tục hành chính,thủ tục hành chính,tích cực,tích cực,thấp,thấp,thủ tục hành chính;cơ sở vật chất,cơ sở vật chất;thủ tục hành chính
+1502,Thư viện thiếu giáo trình mới. Quá thất vọng.,thư viện,thư viện,tiêu cực,tiêu cực,thấp,trung bình,thư viện,thư viện
+1520,"Em bị bạn cùng phòng đe dọa nhưng chưa biết báo cho ai và thang máy tòa nhà bị kẹt giữa chừng, có sinh viên bị mắc kẹt. Xin xử lý gấp.",dịch vụ sinh viên,cơ sở vật chất,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên;cơ sở vật chất,cơ sở vật chất;dịch vụ sinh viên
+1521,"Học phí môn học lại quá cao, ngoài ra hệ thống LMS thường xuyên báo lỗi khi nộp bài. Mong sớm được cải thiện.",học phí,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình,học phí;hệ thống công nghệ thông tin,hệ thống công nghệ thông tin;học phí
+1522,"Tư vấn việc làm chưa sát nhu cầu, đồng thời ứng dụng di động của trường hay bị văng.",dịch vụ sinh viên,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình,dịch vụ sinh viên;hệ thống công nghệ thông tin,dịch vụ sinh viên;hệ thống công nghệ thông tin
+1528,Cho em hỏi cô có nhận hướng dẫn đồ án ko ạ.,giảng viên,giảng viên,trung lập,trung lập,thấp,thấp,giảng viên,giảng viên
+1531,Cho e hỏi thư viện có sách điện tử không ạ?,thư viện,thư viện,trung lập,trung lập,thấp,thấp,thư viện,thư viện
+1532,Căng tin đông và thiếu chỗ ngồi. Hy vọng khắc phục sớm.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,thấp,trung bình,cơ sở vật chất,cơ sở vật chất
+1543,Máy tính ở thư viện cũ và chậm và hệ thống LMS thường xuyên báo lỗi khi nộp bài.,thư viện,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình,thư viện;hệ thống công nghệ thông tin,hệ thống công nghệ thông tin;thư viện
+1549,"Theo em thì ký túc xá bị mất trộm liên tục, sinh viên rất lo lắng về an ninh. Xin xử lý gấp.",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao,dịch vụ sinh viên,dịch vụ sinh viên
+1582,Em thấy thư viện thiếu giáo trình mới.,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình,thư viện,thư viện
+1584,"Thủ thư thân thiện, hỗ trợ tra cứu nhanh. còn đề cương môn học rõ ràng, bám sát thực tế cảm ơn nhà trường nhiều.",thư viện,chương trình đào tạo,tích cực,tích cực,thấp,thấp,thư viện;chương trình đào tạo,chương trình đào tạo;thư viện
+1586,Chính sách học bổng và miễn giảm học phí rất tốt. haizz.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+1597,Mình nghĩ e muốn hỏi giờ mở cửa của nhà thi đấu?,cơ sở vật chất,thư viện,trung lập,trung lập,thấp,thấp,cơ sở vật chất,
+1599,"Xin xác nhận sinh viên phải chờ rất lâu. Còn điều hòa phòng học không mát, rất oi bức. Quá thất vọng.",thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,trung bình,trung bình,thủ tục hành chính;cơ sở vật chất,cơ sở vật chất;thủ tục hành chính
+1601,Mình nghĩ hệ thống lms thường xuyên báo lỗi khi nộp bài. Nhà trường xem xét giúp em.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+1606,Căng tin đông và thiếu chỗ ngồi. Quá thất vọng.,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình,cơ sở vật chất,cơ sở vật chất
+1610,Chính sách học bổng và miễn giảm học phí rất tốt. Em rất hài lòng.,học phí,học phí,tích cực,tích cực,thấp,thấp,học phí,học phí
+1616,Em thấy hệ thống lms thường xuyên báo lỗi khi nộp bài. Quá thất vọng.,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+1618,"Em cần giấy xác nhận để làm visa du học nhưng đã chờ hai tuần chưa có, còn 2 ngày nữa là hết hạn và thẻ thư viện của em bị khóa nhầm, mai em phải nộp tài liệu tham khảo cho đồ án tốt nghiệp. Xin xử lý gấp.",thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao,thủ tục hành chính;thư viện,thư viện;thủ tục hành chính
+1625,"Đề cương môn học không cập nhật so với thực tế, đồng thời thư viện thiếu giáo trình mới.",chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình,chương trình đào tạo;thư viện,chương trình đào tạo;thư viện
+1642,"Phòng học sạch sẽ, thoáng mát. Còn chính sách học bổng và miễn giảm học phí rất tốt. Em rất hài lòng.",cơ sở vật chất,học phí,tích cực,tích cực,thấp,thấp,cơ sở vật chất;học phí,cơ sở vật chất;học phí
+1656,Hoc phi tang nhung chat luong khong cai thien. Con giay to phai nop ban cung du da co he thong online.,học phí,thủ tục hành chính,tiêu cực,tiêu cực,trung bình,trung bình,học phí;thủ tục hành chính,học phí;thủ tục hành chính
+1660,Mình nghĩ câu lạc bộ và hoạt động sv rất sôi nổi.,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp,dịch vụ sinh viên,dịch vụ sinh viên
+1672,Theo em thì đề cương môn học ko cập nhật so với thực tế. Quá thất vọng.,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,thấp,trung bình,chương trình đào tạo,chương trình đào tạo
+1679,"Phòng thực hành trang bị máy móc mới. Còn hệ thống LMS dễ dùng, giao diện đẹp. Em rất hài lòng.",cơ sở vật chất,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp,cơ sở vật chất;hệ thống công nghệ thông tin,cơ sở vật chất;hệ thống công nghệ thông tin
+1699,De cuong mon hoc khong cap nhat so voi thuc te. Con co tra loi email cua sinh vien rat cham.,chương trình đào tạo,giảng viên,tiêu cực,tiêu cực,trung bình,thấp,chương trình đào tạo;giảng viên,chương trình đào tạo;giảng viên
+1708,"Phòng y tế thiếu thuốc và nhân viên, đồng thời hệ thống LMS thường xuyên báo lỗi khi nộp bài. Quá thất vọng.",dịch vụ sinh viên,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,thấp,dịch vụ sinh viên;hệ thống công nghệ thông tin,dịch vụ sinh viên;hệ thống công nghệ thông tin
+1709,"Bảo vệ cổng trường thái độ chưa tốt và giảng viên chấm điểm không rõ ràng, không công bố tiêu chí.",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình,dịch vụ sinh viên;giảng viên,dịch vụ sinh viên;giảng viên
+1714,Mong nhà trường xem lại: em muốn hỏi thủ tục xin bảo lưu kết quả học tập ạ.,thủ tục hành chính,thư viện,trung lập,trung lập,thấp,thấp,thủ tục hành chính,
+1734,"Em thấy giảng viên chấm điểm không rõ ràng, không công bố tiêu chí. Mong sớm được cải thiện.",giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình,giảng viên,giảng viên
+1755,Em chưa biết góp ý gì.,không xác định,không xác định,trung lập,trung lập,thấp,thấp,không xác định,không xác định
+1757,Tạm được.,không xác định,không xác định,trung lập,tiêu cực,thấp,thấp,không xác định,
+1762,Không biết.,không xác định,không xác định,trung lập,trung lập,thấp,trung bình,không xác định,không xác định
+1771,Cảm ơn nhà trường.,không xác định,không xác định,tích cực,tích cực,thấp,thấp,không xác định,
+1780,Không hài lòng.,không xác định,không xác định,tiêu cực,tiêu cực,thấp,thấp,không xác định,
+1790,"Sáng mai em thi online mà chưa đăng nhập được tài khoản, xin hướng dẫn khôi phục mật khẩu ngay ạ.",hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,trung lập,tiêu cực,cao,cao,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+1803,"Cuối tháng này là hạn đóng học phí học kỳ hè, em muốn hỏi học phí tính theo tín chỉ hay theo môn ạ.",học phí,học phí,trung lập,trung lập,trung bình,trung bình,học phí,học phí
+1827,"Giao diện đăng ký học phần rõ ràng hơn năm trước, em mong có video hướng dẫn cho sinh viên năm nhất.",hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,trung bình,thấp,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin
+1829,"Cảm ơn thầy đã hướng dẫn tận tình, nhưng em cần thầy ký xác nhận trong hôm nay để kịp nộp hồ sơ đồ án.",giảng viên,thủ tục hành chính,tích cực,tích cực,cao,cao,giảng viên,
+1832,"Cảm ơn phòng đào tạo đã giải đáp rất nhanh, em cần phòng xử lý hồ sơ trong hôm nay vì chiều nay hết hạn.",thủ tục hành chính,chương trình đào tạo,tích cực,tích cực,cao,cao,thủ tục hành chính,

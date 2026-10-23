@@ -1,0 +1,255 @@
+﻿id,text,source,split,group,has_accent,n_words,is_short,is_urgent,y_true_topic,y_pred_topic,y_true_sent,y_pred_sent,y_true_prio,y_pred_prio
+37,"Em bị gv gợi ý nộp tiền để dc qua môn, đề nghị trường xử lý gấp Em cần dc hỗ trợ ngay!",synthetic_template,test,28,1,23,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+38,Mong nhà trường xem lại: em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Xin xử lý gấp.,synthetic_template,test,28,1,27,0,1,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,cao,cao
+45,Cổng thông tin sinh viên hay bị lag. Quá thất vọng.,synthetic_template,test,33,1,11,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+54,Phòng thực hành trang bị máy móc mới.,synthetic_template,test,39,1,8,0,0,cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp
+58,Cho em hoi lich kham suc khoe dau nam.,synthetic_template,test,42,0,9,0,0,dịch vụ sinh viên,không xác định,trung lập,trung lập,thấp,thấp
+67,Cổng thông tin sinh viên hay bị lag và nhà vệ sinh dơ và thiếu nước. Quá thất vọng.,synthetic_multilabel,test,33,1,19,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+71,"Hệ thống lms dễ dùng, giao diện đẹp.",synthetic_template,test,50,1,8,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+77,Em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Xin xử lý gấp.,synthetic_template,test,28,1,22,0,1,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,cao,cao
+96,"Theo em thì hoạt động ngoại khóa ít, không đa dạng.",synthetic_template,test,61,1,11,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,thấp,trung bình
+97,Cho em hỏi chương trình đào tạo có thay đổi cho khóa sau không ạ?,synthetic_template,test,62,1,15,0,0,chương trình đào tạo,chương trình đào tạo,trung lập,trung lập,thấp,thấp
+114,Chương trình có học phần thực tập doanh nghiệp rát hữu ích. Cảm ơn trường nhiều.,synthetic_template,test,71,1,16,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tích cực,thấp,thấp
+118,"Bộ phận một cửa làm việc chậm, thái độ không tốt, ngoài ra phòng y tế thiếu thuốc và nhân viên.",synthetic_multilabel,test,75,1,21,0,0,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,trung bình,trung bình
+123,Chương trình có học phần thực tập doanh nghiệp rất hữu ích. huhu.,synthetic_template,test,71,1,13,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,trung lập,thấp,trung bình
+132,Cho em hỏi lịch khám sức khỏe đầu năm.,synthetic_template,test,42,1,9,0,0,dịch vụ sinh viên,không xác định,trung lập,trung lập,thấp,thấp
+134,Theo em thì chương trình có học phần thực tập doanh nghiệp rất hữu ích. Cảm ơn nhà trường nhiều.,synthetic_template,test,71,1,20,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tích cực,thấp,thấp
+139,"Hoạt động ngoại khóa ít, không đa dạng. Hy vọng khắc phục sớm.",synthetic_template,test,61,1,13,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,thấp,trung bình
+159,Theo em thì phòng thực hành trang bị máy móc mới.,synthetic_template,test,39,1,11,0,0,cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp
+165,Em muốn xin lịch tiếp sinh viên của thầy chủ nhiệm.,synthetic_template,test,89,1,11,0,0,giảng viên,không xác định,trung lập,trung lập,thấp,thấp
+166,"Mong trường xe lại: e bị gv gợi ý nộp tiền để được qua môn, đề nghị trường xử lý gấp. Xin xử lý gấp.",synthetic_template,test,28,1,25,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+188,"Hoạt động ngoại khóa ít, không đa dạng, đồng thời học phí môn học lại quá cao.",synthetic_multilabel,test,95,1,17,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình
+195,Minh nghi phong thuc hanh trang bi may moc moi. Mong tiep tuc phat huy.,synthetic_template,test,39,0,15,0,0,cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp
+207,"Các khoản thu đầu năm không rõ ràng và wifi trường chập chờn, rất yếu. Mong sớm được cải thiện.",synthetic_multilabel,test,98,1,20,0,0,học phí,học phí,tiêu cực,tiêu cực,thấp,trung bình
+208,"Em thấy hoạt động ngoại khóa ít, không đa dạng. Quá thất vọng.",synthetic_template,test,61,1,13,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,thấp,thấp
+209,Chính sách học bổng và miễn giảm học phí rất tốt và chương trình có học phần thực tập doanh nghiệp rất hữu ích mong tiếp tục phát huy.,synthetic_multilabel,test,71,1,29,0,0,học phí,học phí,tích cực,tích cực,thấp,thấp
+211,"Mình nghĩ em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp. Xin xử lý gấp.",synthetic_template,test,28,1,25,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+233,Chương trình có học phần thực tập doanh nghiệp rất hữu ích.,synthetic_template,test,71,1,12,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,trung lập,thấp,trung bình
+234,Chương trình có học phần thực tập doanh nghiệp rất hữu ích. Cảm ơn nhà trường nhiều.,synthetic_template,test,71,1,17,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tích cực,thấp,thấp
+235,"Điều hòa phòng học không mát, rát oi bức. Mong sớm dc cải thiện.",synthetic_template,test,101,1,14,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,thấp
+251,"Em thấy hệ thống lms dễ dùng, giao diện đẹp. Mong tiếp tục phát huy.",synthetic_template,test,50,1,15,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+255,Mình nghĩ chương trình có học phần thực tập doanh nghiệp rát hữu ích.,synthetic_template,test,71,1,14,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,trung lập,thấp,trung bình
+261,"Hệ thống lms dễ dùng, giao diện đẹp. Em rát hài lòng.",synthetic_template,test,50,1,12,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+262,"Mong nhà trường xem lại: em bị giảng viên gợi ý nộp tiền để dc qua môn, đề nghị nhà trường xử lý gấp. Xin xử lý gấp.",synthetic_template,test,28,1,28,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+278,Cong thong tin sinh vien hay bi lag. Mong som duoc cai thien.,synthetic_template,test,33,0,13,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+285,Mong trường xem lại: chương trình có học phần thực tập doanh nghiệp rất hữu ích.,synthetic_template,test,71,1,16,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tiêu cực,thấp,trung bình
+292,Em muốn xin lịch tiếp sinh viên của thầy chủ nhiệm ạ?,synthetic_template,test,89,1,12,0,0,giảng viên,không xác định,trung lập,trung lập,thấp,thấp
+297,"Điều hòa phòng học không mát, rất oi bức. Quá thất vọng.",synthetic_template,test,101,1,12,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,thấp
+311,Em thấy cổng thông tin sv hay bị lag.,synthetic_template,test,33,1,9,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+313,"Môn tự chọn quá ít, không có nhiều lựa chọn. Hy vọng khắc phục sớm.",synthetic_template,test,116,1,15,0,0,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình
+314,Em muốn xin lịch tiếp sv của thầy chủ nhiệm?,synthetic_template,test,89,1,10,0,0,giảng viên,không xác định,trung lập,trung lập,thấp,thấp
+321,"Mong nha truong xem lai: em bi thieu tin chi nhung sap het thoi han xet tot nghiep ma chua ai huong dan. Rat khan cap, mong phan hoi som!",synthetic_template,test,28,0,30,0,1,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,cao,cao
+335,"Mong nhà trường xem lại: hệ thống lms dễ dùng, giao diện đẹp.",synthetic_template,test,50,1,13,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+360,Mong nha truong xem lai: em bi thieu tin chi nhung sap het thoi han xet tot nghiep ma chua ai huong dan em can duoc ho tro ngay!,synthetic_template,test,28,0,29,0,1,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,cao,cao
+374,"Minh nghi mon tu chon qua it, khong co nhieu lua chon. Mong som duoc cai thien.",synthetic_template,test,116,0,17,0,0,chương trình đào tạo,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình
+397,"Thủ thư thân thiện, hỗ trợ tra cứu nhanh. Còn cán bộ phòng đào tạo hướng dẫn rất nhiệt tình.",synthetic_multilabel,test,130,1,20,0,0,thư viện,thư viện,tích cực,tích cực,thấp,thấp
+400,"Minh nghi he thong lms de dung, giao dien dep.",synthetic_template,test,50,0,10,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+406,"Môn tự chọn wa ít, không có nhiều lựa chọn.",synthetic_template,test,116,1,10,0,0,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,thấp
+407,"Theo em thì hoạt động ngoại khóa ít, không đa dạng quá thất vọng.",synthetic_template,test,61,1,14,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,thấp,trung bình
+410,Chuong trinh co hoc phan thuc tap doanh nghiep rat huu ich. Mong tiep tuc phat huy.,synthetic_template,test,71,0,17,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tích cực,thấp,thấp
+413,"Em thấy hệ thống lms dễ dùng, giao diện đẹp. Cảm ơn nhà trường nhiều.",synthetic_template,test,50,1,15,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+414,Cho em hoi lich kham suc khoe dau nam a.,synthetic_template,test,42,0,10,0,0,dịch vụ sinh viên,không xác định,trung lập,trung lập,thấp,thấp
+415,Theo em thì máy tính ở thư viện cũ và chậm. Quá thất vọng.,synthetic_template,test,132,1,14,0,0,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình
+425,"Ký túc xá sạch sẽ, an ninh tốt, đồng thời cán bộ phòng đào tạo hướng dẫn rất nhiệt tình.",synthetic_multilabel,test,134,1,20,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp
+431,"Mong nhà trường xem lại: điều hòa phòng học không mát, rất oi bức. Mong sớm được cải thiện.",synthetic_template,test,101,1,19,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,thấp
+435,"Em thấy hoạt động ngoại khóa ít, không đa dạng. Mong sớm được cải thiện.",synthetic_template,test,61,1,15,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình
+448,"Em đã chuyển khoản học phí nhưng hệ thống chưa ghi nhận, sắp bị khóa đăng ký học phần, ngoài ra ổ điện ở phòng thực hành bị chập cháy, cần xử lý ngay trước khi xảy ra tai nạn nhờ nhà trường xử lý gấp ạ!",synthetic_multilabel,test,138,1,47,0,1,học phí,học phí,tiêu cực,tiêu cực,cao,cao
+454,"Dieu hoa phong hoc khong mat, rat oi buc. Nha truong xem xet giup em.",synthetic_template,test,101,0,15,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,thấp,trung bình
+457,Mình nghĩ cô trả lời eail của sv rất chậm. Mong sớm dc cải thiện.,synthetic_template,test,140,1,15,0,0,giảng viên,giảng viên,tiêu cực,tiêu cực,thấp,trung bình
+465,"Em thấy điều hòa phòng học không mát, rất oi bức.",synthetic_template,test,101,1,11,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,thấp,thấp
+471,"Em bị giảng viên gợi ý nộp tiền để dc qua môn, đề nghị nhà trường xử lý gấp. Xin xử lý gấp.",synthetic_template,test,28,1,23,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+480,Cho em hỏi chương trình đào tạo có thay đổi cho khóa sau không.,synthetic_template,test,62,1,14,0,0,chương trình đào tạo,chương trình đào tạo,trung lập,trung lập,thấp,thấp
+484,"Theo em thì hệ thống lms dễ dùng, giao diện đẹp.",synthetic_template,test,50,1,11,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+485,"Điều hòa phòng học không mát, rất oi bức.",synthetic_template,test,101,1,9,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,thấp
+492,"Em da chuyen khoan hoc phi nhung he thong chua ghi nhan, sap bi khoa dang ky hoc phan va em bi ban cung phong de doa nhung chua biet bao cho ai. Em can duoc ho tro ngay!",synthetic_multilabel,test,28,0,39,0,1,học phí,học phí,tiêu cực,tiêu cực,cao,cao
+497,"Em bi tinh phat sai so sach tra tre va bi chan muon truoc ngay bao ve. Con tran phong hoc bi tham nuoc va roi vua, rat nguy hiem cho sinh vien. Nho nha truong xu ly gap a!",synthetic_multilabel,test,146,0,40,0,1,thư viện,thư viện,tiêu cực,tiêu cực,cao,cao
+498,Cong thong tin sinh vien hay bi lag.,synthetic_template,test,33,0,8,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+512,"Mong nha truong xem lai: dieu hoa phong hoc khong mat, rat oi buc.",synthetic_template,test,101,0,14,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tích cực,thấp,thấp
+529,Chương trình có học phần thực tập doanh nghiệp rất hữu ích. Em rất hài lòng.,synthetic_template,test,71,1,16,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tích cực,thấp,thấp
+544,"Hồ sơ xét tốt nghiệp của em bị thất lạc, sắp hết hạn nộp, em rất lo. Rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,28,1,24,0,1,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+553,"Hoạt động ngoại khóa ít, không đa dạng. Mong sớm được cải thiện.",synthetic_template,test,61,1,13,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,thấp
+554,"Quy trình xin bảng điểm rườm rà, đi lại nhiều lần. Còn giờ mở cửa thư viện wa ngắn vào mùa thi. Mong sớm được cải thiện.",synthetic_multilabel,test,153,1,27,0,0,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,trung bình,trung bình
+555,"Theo em thì điều hòa phòng học không mát, rất oi bức. Quá thất vọng.",synthetic_template,test,101,1,15,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,thấp
+561,Em thấy cổng thông tin sinh viên hay bị lag.,synthetic_template,test,33,1,10,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+566,Mong nha truong xem lai: em muon xin lich tiep sinh vien cua thay chu nhiem a?,synthetic_template,test,89,0,17,0,0,giảng viên,thủ tục hành chính,trung lập,trung lập,thấp,trung bình
+569,"Cổng thông tin sinh viên hay bị lag, đồng thời các khoản thu đầu năm không rõ ràng. Mong sớm được cải thiện.",synthetic_multilabel,test,155,1,23,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+572,"Thầy giảng dễ hiểu, nhiệt tình hỗ trợ sv, ngoài ra thủ tục xin giấy xác nhận nhanh gọn.",synthetic_multilabel,test,156,1,19,0,0,giảng viên,giảng viên,tích cực,tích cực,thấp,thấp
+574,Cho em hỏi lịch khám sức khỏe đầu năm ạ?,synthetic_template,test,42,1,10,0,0,dịch vụ sinh viên,không xác định,trung lập,trung lập,thấp,thấp
+575,Mong nha truong xem lai: cong thong tin sinh vien hay bi lag.,synthetic_template,test,33,0,13,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,trung bình
+577,"Wifi trường chập chờn, rát yếu, ngoài ra ko có hình thức đóng học phí trả góp.",synthetic_multilabel,test,158,1,17,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+578,Cho e hỏi lịch khám sức khỏe đầu năm ạ?,synthetic_template,test,42,1,10,0,0,dịch vụ sinh viên,không xác định,trung lập,trung lập,thấp,thấp
+583,"Em đã chuyển khoản học phí nhưng hệ thống chưa ghi nhận, sắp bị khóa đăng ký học phần. Nhờ nhà trường xử lý gấp ạ!",synthetic_template,test,28,1,26,0,1,học phí,học phí,tiêu cực,tiêu cực,cao,cao
+598,"Mong trường xem lại: điều hòa phòng học ko mát, rất oi bức.",synthetic_template,test,101,1,13,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,thấp
+599,Cho em hoi chuong trinh dao tao co thay doi cho khoa sau khong a.,synthetic_template,test,62,0,15,0,0,chương trình đào tạo,chương trình đào tạo,trung lập,trung lập,thấp,thấp
+602,"Em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp. Rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,28,1,26,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+610,"Em bi giang vien goi y nop tien de duoc qua mon, de nghi nha truong xu ly gap. Em can duoc ho tro ngay!",synthetic_template,test,28,0,25,0,1,giảng viên,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+614,Em thấy phòng thực hành trang bị máy móc mới.,synthetic_template,test,39,1,10,0,0,cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp
+615,Cho em hỏi chương trình đào tạo có thay đổi cho khóa sau ko ạ?,synthetic_template,test,62,1,15,0,0,chương trình đào tạo,chương trình đào tạo,trung lập,trung lập,thấp,thấp
+621,Em thấy chương trình có học phần thực tập doanh nghiệp rất hữu ích. Cảm ơn nhà trường nhiều.,synthetic_template,test,71,1,19,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tích cực,thấp,thấp
+631,"Em thấy hoạt động ngoại khóa ít, không đa dạng.",synthetic_template,test,61,1,10,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,thấp
+633,"Theo em thì em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp. Nhờ nhà trường xử lý gấp ạ!",synthetic_template,test,28,1,29,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+634,"Em bi giang vien goi y nop tien de duoc qua mon, de nghi nha truong xu ly gap. Con ho so xet tot nghiep cua em bi that lac, sap het han nop, em rat lo. Xin xu ly gap.",synthetic_multilabel,test,28,0,41,0,1,giảng viên,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+643,"Theo em thì hệ thống lms dễ dùng, giao diện đẹp. Mong tiếp tục phát huy.",synthetic_template,test,50,1,16,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+654,"Em thay ho so xet tot nghiep cua em bi that lac, sap het han nop, em rat lo xin xu ly gap.",synthetic_template,test,28,0,23,0,1,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+660,Theo em thì phòng thực hành trang bị máy móc mới. Em rất hài lòng.,synthetic_template,test,39,1,15,0,0,cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp
+664,Thư viện thiếu giáo trình mới và cổng thông tin sinh viên hay bị lag. Mong sớm được cải thiện.,synthetic_multilabel,test,33,1,20,0,0,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình
+668,"Mon tu chon qua it, khong co nhieu lua chon.",synthetic_template,test,116,0,10,0,0,chương trình đào tạo,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,thấp
+672,"Môn tự chọn quá ít, không có nhiều lựa chọn. Mong sớm được cải thiện.",synthetic_template,test,116,1,15,0,0,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình
+678,"Ho so xet tot nghiep cua em bi that lac, sap het han nop, em rat lo. Nho nha truong xu ly gap a!",synthetic_template,test,28,0,24,0,1,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+681,"Em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp, đồng thời em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Rất khẩn cấp, mong phản hồi sớm!",synthetic_multilabel,test,28,1,46,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+692,"Hoat dong ngoai khoa it, khong da dang huhu.",synthetic_template,test,61,0,9,0,0,dịch vụ sinh viên,hệ thống công nghệ thông tin,tiêu cực,trung lập,thấp,trung bình
+694,Cho e hỏi lịch khám sức khỏe đầu năm.,synthetic_template,test,42,1,9,0,0,dịch vụ sinh viên,không xác định,trung lập,trung lập,thấp,thấp
+710,Lag.,synthetic_short,test,177,0,1,1,0,hệ thống công nghệ thông tin,không xác định,tiêu cực,tiêu cực,trung bình,thấp
+718,"Theo em thì điều hòa phòng học không mát, rất oi bức. Nhà trường xem xét giúp em.",synthetic_template,test,101,1,18,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,thấp
+723,Em thấy chương trình có học phần thực tập doanh nghiệp rát hữu ích. Em rát hài lòng.,synthetic_template,test,71,1,18,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tích cực,thấp,thấp
+741,"Chương trình có học phần thực tập doanh nghiệp rất hữu ích, đồng thời khuôn viên trường xanh, thoải mái. Mong tiếp tục phát huy.",synthetic_multilabel,test,71,1,25,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tích cực,thấp,thấp
+750,Hoc phi tang nhung chat luong khong cai thien va he thong LMS thuong xuyen bao loi khi nop bai.,synthetic_multilabel,test,186,0,20,0,0,học phí,học phí,tiêu cực,tiêu cực,trung bình,trung bình
+760,"Em thấy môn tự chọn quá ít, không có nhiều lựa chọn.",synthetic_template,test,116,1,12,0,0,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,thấp
+763,"Học phí công khai, minh bạch, đồng thời chương trình có học phần thực tập doanh nghiệp rất hữu ích. Em rất hài lòng.",synthetic_multilabel,test,71,1,24,0,0,học phí,học phí,tích cực,tích cực,thấp,thấp
+764,Mong nhà trường xem lại: cho em hỏi lịch khám sức khỏe đầu năm ạ?,synthetic_template,test,42,1,15,0,0,dịch vụ sinh viên,không xác định,trung lập,trung lập,thấp,thấp
+766,Em thấy phòng thực hành trang bị máy móc mới mong tiếp tục phát huy.,synthetic_template,test,39,1,15,0,0,cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp
+788,"Em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp. Nhờ nhà trường xử lý gấp ạ!",synthetic_template,test,28,1,26,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+791,"Ky tuc xa bi mat trom lien tuc, sinh vien rat lo lang ve an ninh, ngoai ra tai khoan em bi nguoi la dang nhap va doi mat khau, can khoa gap. Xin xu ly gap.",synthetic_multilabel,test,195,0,37,0,1,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao
+797,"Giờ mở cửa thư viện quá ngắn vào mùa thi, ngoài ra quy trình xin bảng điểm rườm rà, đi lại nhiều lần.",synthetic_multilabel,test,153,1,23,0,0,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình
+813,"Thủ thư thân thiện, hỗ trợ tra cứu nhanh và cán bộ phòng đào tạo hướng dẫn rất nhiệt tình. Cảm ơn nhà trường nhiều.",synthetic_multilabel,test,130,1,25,0,0,thư viện,thư viện,tích cực,tích cực,thấp,thấp
+820,"Mong nhà trường xem lại: em đã chuyển khoản học phí nhưng hệ thống chưa ghi nhận, sắp bị khóa đăng ký học phần. Em cần được hỗ trợ ngay!",synthetic_template,test,28,1,30,0,1,học phí,học phí,tiêu cực,tiêu cực,cao,cao
+822,"Cán bộ phòng đào tạo hướng dẫn rất nhiệt tình, ngoài ra thủ thư thân thiện, hỗ trợ tra cứu nhanh. Mong tiếp tục phát huy.",synthetic_multilabel,test,130,1,26,0,0,thủ tục hành chính,thủ tục hành chính,tích cực,tích cực,thấp,thấp
+829,"Giảng viên có lời lẽ xúc phạm sinh viên ngay trong lớp, nhiều bạn rất bức xúc và em cần giấy xác nhận để làm visa du học nhưng đã chờ hai tuần chưa có, còn 2 ngày nữa là hết hạn. Nhờ nhà trường xử lý gấp ạ!",synthetic_multilabel,test,203,1,49,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+834,"Theo em thì em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,28,1,28,0,1,chương trình đào tạo,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+854,"Hoạt động ngoại khóa ít, không đa dạng. Nhà trường xem xét giúp em.",synthetic_template,test,61,1,14,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình
+859,Phòng thực hành trang bị máy móc mới. Mong tiếp tục phát huy.,synthetic_template,test,39,1,13,0,0,cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp
+860,"Ký túc xá sạch sẽ, an ninh tốt, ngoài ra khuôn viên trường xanh, thoải mái. Em rất hài lòng.",synthetic_multilabel,test,208,1,20,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp
+866,"Dieu hoa phong hoc khong mat, rat oi buc hy vong khac phuc som.",synthetic_template,test,101,0,14,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,thấp,thấp
+868,Minh nghi em bi thieu tin chi nhung sap het thoi han xet tot nghiep ma chua ai huong dan. Xin xu ly gap.,synthetic_template,test,28,0,24,0,1,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,cao,cao
+879,Em muon xin lich tiep sinh vien cua thay chu nhiem?,synthetic_template,test,89,0,11,0,0,giảng viên,thủ tục hành chính,trung lập,trung lập,thấp,thấp
+891,Mong nhà trường xem lại: phòng thực hành trang bị máy móc mới. Mong tiếp tục phát huy.,synthetic_template,test,39,1,18,0,0,cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp
+899,"Học phí công khai, minh bạch, đồng thời chương trình có học phần thực tập doanh nghiệp rất hữu ích.",synthetic_multilabel,test,71,1,20,0,0,học phí,học phí,tích cực,tích cực,thấp,trung bình
+900,"Mong nhà trường xem lại: em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp. Xin xử lý gấp.",synthetic_template,test,28,1,28,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+907,"Em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn, ngoài ra em đã chuyển khoản học phí nhưng hệ thống chưa ghi nhận, sắp bị khóa đăng ký học phần nhờ nhà trường xử lý gấp ạ!",synthetic_multilabel,test,28,1,46,0,1,chương trình đào tạo,học phí,tiêu cực,tiêu cực,cao,cao
+937,"Mong nha truong xem lai: em bi giang vien goi y nop tien de duoc qua mon, de nghi nha truong xu ly gap nho nha truong xu ly gap a!",synthetic_template,test,28,0,31,0,1,giảng viên,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+952,"Theo em thì điều hòa phòng học không mát, rất oi bức.",synthetic_template,test,101,1,12,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,thấp,thấp
+953,Cho em hỏi chương trình đào tạo có thay đổi cho khóa sau ko.,synthetic_template,test,62,1,14,0,0,chương trình đào tạo,chương trình đào tạo,trung lập,trung lập,thấp,thấp
+955,"Em thấy hồ sơ xét tốt nghiệp của e bị thất lạc, sắp hết hạn nộp, e rát lo. Nhờ nhà trường xử lý gấp ạ!",synthetic_template,test,28,1,26,0,1,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+963,"Mong nhà trường xem lại: hồ sơ xét tốt nghiệp của em bị thất lạc, sắp hết hạn nộp, em rất lo. Nhờ nhà trường xử lý gấp ạ!",synthetic_template,test,28,1,29,0,1,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+979,"Mình nghĩ hoạt động ngoại khóa ít, không đa dạng quá thất vọng.",synthetic_template,test,61,1,13,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,thấp
+984,Phòng thực hành trang bị máy móc mới. Cảm ơn nhà trường nhiều.,synthetic_template,test,39,1,13,0,0,cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp
+992,"Theo em thì hoạt động ngoại khóa ít, không đa dạng. Mong sớm được cải thiện.",synthetic_template,test,61,1,16,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình
+1007,"Thu thu than thien, ho tro tra cuu nhanh, ngoai ra co co nhieu vi du thuc te, bai giang rat cuon.",synthetic_multilabel,test,228,0,22,0,0,thư viện,thư viện,tích cực,tích cực,thấp,thấp
+1017,Mình nghĩ phòng thực hành trang bị máy móc mới. Em rất hài lòng.,synthetic_template,test,39,1,14,0,0,cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp
+1018,Em thay chuong trinh co hoc phan thuc tap doanh nghiep rat huu ich. Mong tiep tuc phat huy.,synthetic_template,test,71,0,19,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tích cực,thấp,thấp
+1029,Mong nhà trường xem lại: cho em hỏi chương trình đào tạo có thay đổi cho khóa sau không ạ?,synthetic_template,test,62,1,20,0,0,chương trình đào tạo,chương trình đào tạo,trung lập,trung lập,thấp,thấp
+1031,"Mình nghĩ hệ thống lms dễ dùng, giao diện đẹp. Cảm ơn trường nhiều.",synthetic_template,test,50,1,14,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+1035,"Ho so xet tot nghiep cua em bi that lac, sap het han nop, em rat lo. Xin xu ly gap.",synthetic_template,test,28,0,21,0,1,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+1038,"Môn tự chọn quá ít, không có nhiều lựa chọn. Quá thất vọng.",synthetic_template,test,116,1,13,0,0,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,thấp
+1054,Mình nghĩ cổng thông tin sinh viên hay bị lag.,synthetic_template,test,33,1,10,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+1058,"Em thay em bi giang vien goi y nop tien de duoc qua mon, de nghi nha truong xu ly gap. Nho nha truong xu ly gap a!",synthetic_template,test,28,0,28,0,1,giảng viên,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+1060,Em thấy cổng thông tin sinh viên hay bị lag. Quá thất vọng.,synthetic_template,test,33,1,13,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,trung bình
+1063,"Em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp. Xin xử lý gấp.",synthetic_template,test,28,1,23,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+1077,Mong nhà trường xem lại: cho em hỏi chương trình đào tạo có thay đổi cho khóa sau không.,synthetic_template,test,62,1,19,0,0,chương trình đào tạo,chương trình đào tạo,trung lập,trung lập,thấp,thấp
+1081,"Theo em thì môn tự chọn quá ít, không có nhiều lựa chọn. Quá thất vọng.",synthetic_template,test,116,1,16,0,0,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,thấp,trung bình
+1089,"Mình nghĩ hồ sơ xét tốt nghiệp của em bị thất lạc, sắp hết hạn nộp, em rất lo. Em cần được hỗ trợ ngay! haizz.",synthetic_template,test,28,1,26,0,1,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+1091,Em bi thieu tin chi nhung sap het thoi han xet tot nghiep ma chua ai huong dan. Nho nha truong xu ly gap a!,synthetic_template,test,28,0,25,0,1,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,cao,trung bình
+1093,"Wifi truong chap chon, rat yeu. Con cac khoan thu dau nam khong ro rang.",synthetic_multilabel,test,98,0,15,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+1096,Mình nghĩ e muốn xin lịch tiếp sv của thầy chủ nhiệm.,synthetic_template,test,89,1,12,0,0,giảng viên,không xác định,trung lập,trung lập,thấp,thấp
+1098,"Hệ thống lms dễ dùng, giao diện đẹp mong tiếp tục phát huy.",synthetic_template,test,50,1,13,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+1100,Em thấy cổng thông tin sinh viên hay bị lag. Nhà trường xem xét giúp em.,synthetic_template,test,33,1,16,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+1104,"Em bị giảng viên gợi ý nộp tiền để dc qua môn, đề nghị nhà trường xử lý gấp Em cần dc hỗ trợ ngay!",synthetic_template,test,28,1,25,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+1108,"Em thấy em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp. Em cần được hỗ trợ ngay!",synthetic_template,test,28,1,27,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+1118,Phòng thực hành trang bị máy móc mới. Em rất hài lòng.,synthetic_template,test,39,1,12,0,0,cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp
+1123,"Mình nghĩ môn tự chọn quá ít, không có nhiều lựa chọn.",synthetic_template,test,116,1,12,0,0,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,thấp,thấp
+1124,"Thay giang de hieu, nhiet tinh ho tro sinh vien, ngoai ra thu tuc xin giay xac nhan nhanh gon.",synthetic_multilabel,test,156,0,20,0,0,giảng viên,giảng viên,tích cực,tích cực,thấp,thấp
+1135,"E bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp. Xin xử lý gấp.",synthetic_template,test,28,1,23,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+1138,Em thay chuong trinh co hoc phan thuc tap doanh nghiep rat huu ich.,synthetic_template,test,71,0,14,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tích cực,thấp,trung bình
+1140,"Theo em thi dieu hoa phong hoc khong mat, rat oi buc. Hy vong khac phuc som.",synthetic_template,test,101,0,17,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình
+1167,"Môn tự chọn quá ít, không có nhiều lựa chọn. Nhà trường xem xét giúp em.",synthetic_template,test,116,1,16,0,0,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình
+1173,"Học phí công khai, minh bạch, ngoài ra chương trình có học phần thực tập doanh nghiệp rát hữu ích. Em rát hài lòng.",synthetic_multilabel,test,71,1,24,0,0,học phí,học phí,tích cực,tích cực,thấp,thấp
+1176,"Theo e thì e bị gv gợi ý nộp tiền để dc qua môn, đề nghị nhà trường xử lý gấp. Nhờ nhà trường xử lý gấp ạ!",synthetic_template,test,28,1,28,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+1178,"Minh nghi hoat dong ngoai khoa it, khong da dang. Nha truong xem xet giup em.",synthetic_template,test,61,0,16,0,0,dịch vụ sinh viên,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+1182,Em thấy cô trả lời email của sv rát chậm. Mong sớm dc cải thiện. huhu.,synthetic_template,test,246,1,16,0,0,giảng viên,giảng viên,tiêu cực,tiêu cực,trung bình,trung bình
+1184,Học phí môn học lại wa cao và máy tính ở thư viện cũ và chậm.,synthetic_multilabel,test,247,1,16,0,0,học phí,học phí,tiêu cực,tiêu cực,trung bình,trung bình
+1194,"Mong nhà trường xem lại: em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp. Rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,28,1,31,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+1200,"Theo em thì em đã chuyển khoản học phí nhưng hệ thống chưa ghi nhận, sắp bị khóa đăng ký học phần. Rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,28,1,29,0,1,học phí,học phí,tiêu cực,tiêu cực,cao,cao
+1210,"Cô có nhiều ví dụ thực tế, bài giảng rất cuốn và khuôn viên trường xanh, thoải mái. Em rất hài lòng.",synthetic_multilabel,test,251,1,22,0,0,giảng viên,giảng viên,tích cực,tích cực,thấp,thấp
+1213,Xin xác nhận sinh viên phải chờ rát lâu. còn eail trường hay vào spam nhà trường xe xét giúp e.,synthetic_multilabel,test,252,1,21,0,0,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,trung bình,trung bình
+1214,Theo e thì máy tính ở thư viện cũ và chậm. Quá thất vọng.,synthetic_template,test,132,1,14,0,0,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình
+1220,"Hoạt động ngoại khóa ít, không đa dạng.",synthetic_template,test,61,1,8,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,thấp,thấp
+1244,"Hệ thống lms dễ dùng, giao diện đẹp. Cảm ơn nhà trường nhiều.",synthetic_template,test,50,1,13,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+1264,"Em thay em da chuyen khoan hoc phi nhung he thong chua ghi nhan, sap bi khoa dang ky hoc phan. Nho nha truong xu ly gap a!",synthetic_template,test,28,0,28,0,1,học phí,học phí,tiêu cực,tiêu cực,cao,cao
+1269,"Theo em thì hoạt động ngoại khóa ít, không đa dạng. Hy vọng khắc phục sớm.",synthetic_template,test,61,1,16,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình
+1281,"Theo em thì phòng đọc ồn, khó tập trung. Hy vọng khắc phục sớm.",synthetic_template,test,260,1,14,0,0,thư viện,thư viện,tiêu cực,tiêu cực,thấp,trung bình
+1294,"Trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sinh viên và em bị tính phạt sai số sách trả trễ và bị chặn mượn trước ngày bảo vệ. Em cần được hỗ trợ ngay!",synthetic_multilabel,test,146,1,39,0,1,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,cao,cao
+1300,"Em bị gv gợi ý nộp tiền để dc qua môn, đề nghị trường xử lý gấp. Xin xử lý gấp.",synthetic_template,test,28,1,21,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+1305,Theo e thì cổng thông tin sv hay bị lag.,synthetic_template,test,33,1,10,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,trung bình
+1311,"Máy chiếu phòng học hay hỏng, đồng thời email trường hay vào spam.",synthetic_multilabel,test,266,1,13,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình
+1322,"Hoạt động ngoại khóa ít, không đa dạng. Còn ổ cắm điện thư viện không đủ. Nhà trường xem xét giúp em.",synthetic_multilabel,test,61,1,22,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình
+1323,"Dieu hoa phong hoc khong mat, rat oi buc. Mong som duoc cai thien.",synthetic_template,test,101,0,14,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,thấp,trung bình
+1331,"Em thấy hồ sơ xét tốt nghiệp của em bị thất lạc, sắp hết hạn nộp, em rất lo Em cần dc hỗ trợ ngay!",synthetic_template,test,28,1,25,0,1,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+1338,Mong nhà trường xem lại: cho em hỏi lịch khám sức khỏe đầu năm?,synthetic_template,test,42,1,14,0,0,dịch vụ sinh viên,không xác định,trung lập,trung lập,thấp,thấp
+1341,Mong nhà trường xem lại: phòng thực hành trang bị máy móc mới. Cảm ơn nhà trường nhiều.,synthetic_template,test,39,1,18,0,0,cơ sở vật chất,cơ sở vật chất,tích cực,tích cực,thấp,thấp
+1345,"Em bị giảng viên gợi ý nộp tiền để dc qua môn, đề nghị trường xử lý gấp. Rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,28,1,25,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+1354,"Ký túc xá bị mất trộm liên tục, sinh viên rất lo lắng về an ninh, đồng thời hệ thống đăng ký học phần sập đúng giờ mở đăng ký, nhiều bạn không đăng ký được. Nhờ nhà trường xử lý gấp ạ!",synthetic_multilabel,test,273,1,43,0,1,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao
+1359,"Mong nhà trường xem lại: hoạt động ngoại khóa ít, không đa dạng.",synthetic_template,test,61,1,13,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,trung bình
+1377,"Mong trường xem lại: hệ thống lms dễ dùng, giao diện đẹp. Em rất hài lòng.",synthetic_template,test,50,1,16,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+1381,"Phòng tư vấn tâm lý hỗ trợ tận tình, đồng thời chương trình có học phần thực tập doanh nghiệp rất hữu ích. Cảm ơn nhà trường nhiều.",synthetic_multilabel,test,71,1,28,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,thấp,thấp
+1386,Cổng thông tin sv hay bị lag.,synthetic_template,test,33,1,7,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,trung bình
+1388,"Hồ sơ xét tốt nghiệp của em bị thất lạc, sắp hết hạn nộp, em rất lo. Còn em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Xin xử lý gấp.",synthetic_multilabel,test,28,1,40,0,1,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+1389,"Học phí môn học lại quá cao, ngoài ra wifi trường chập chờn, rất yếu.",synthetic_multilabel,test,281,1,15,0,0,học phí,học phí,tiêu cực,tiêu cực,trung bình,trung bình
+1392,Mình nghĩ cổng thông tin sinh viên hay bị lag huhu.,synthetic_template,test,33,1,11,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,trung bình
+1394,"Wifi trường chập chờn, rất yếu, ngoài ra chương trình học quá nặng lý thuyết, ít thực hành. Nhà trường xem xét giúp em.",synthetic_multilabel,test,282,1,24,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,trung bình,trung bình
+1408,"Thang máy tòa nhà bị kẹt giữa chừng, có sinh viên bị mắc kẹt. Còn thẻ thư viện của em bị khóa nhầm, mai em phải nộp tài liệu tham khảo cho đồ án tốt nghiệp. Em cần được hỗ trợ ngay!",synthetic_multilabel,test,285,1,42,0,1,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,cao,cao
+1417,Em thấy em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Nhờ nhà trường xử lý gấp ạ!,synthetic_template,test,28,1,27,0,1,chương trình đào tạo,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+1421,"Em thấy hệ thống lms dễ dùng, giao diện đẹp.",synthetic_template,test,50,1,10,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+1423,"Mong nhà trường xem lại: hoạt động ngoại khóa ít, không đa dạng nhà trường xem xét giúp em.",synthetic_template,test,61,1,19,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,thấp,trung bình
+1427,Theo em thì chương trình có học phần thực tập doanh nghiệp rất hữu ích.,synthetic_template,test,71,1,15,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tiêu cực,thấp,trung bình
+1432,"Theo em thì em đã chuyển khoản học phí nhưng hệ thống chưa ghi nhận, sắp bị khóa đăng ký học phần. Em cần được hỗ trợ ngay!",synthetic_template,test,28,1,28,0,1,học phí,học phí,tiêu cực,tiêu cực,cao,cao
+1457,Mong nhà trường xe lại: máy tính ở thư viện cũ và chậm. Quá thất vọng. haizz.,synthetic_template,test,291,1,17,0,0,thư viện,thư viện,tiêu cực,tiêu cực,thấp,trung bình
+1458,"Minh nghi em bi giang vien goi y nop tien de duoc qua mon, de nghi nha truong xu ly gap. Em can duoc ho tro ngay!",synthetic_template,test,28,0,27,0,1,giảng viên,dịch vụ sinh viên,tiêu cực,tiêu cực,cao,cao
+1472,"Em đã chuyển khoản học phí nhưng hệ thống chưa ghi nhận, sắp bị khóa đăng ký học phần rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,28,1,26,0,1,học phí,học phí,tiêu cực,tiêu cực,cao,cao
+1476,"Theo em thì môn tự chọn quá ít, không có nhiều lựa chọn. Nhà trường xem xét giúp em.",synthetic_template,test,116,1,19,0,0,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,trung bình
+1477,"Mình nghĩ điều hòa phòng học không mát, rát oi bức. Hy vọng khắc phục sớm.",synthetic_template,test,101,1,16,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,thấp
+1483,"Chương trình có học phần thực tập doanh nghiệp rất hữu ích và phòng học sạch sẽ, thoáng mát. Mong tiếp tục phát huy.",synthetic_multilabel,test,71,1,24,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tích cực,thấp,thấp
+1494,"Thu vien yen tinh, nhieu sach hay va chuong trinh co hoc phan thuc tap doanh nghiep rat huu ich.",synthetic_multilabel,test,71,0,20,0,0,thư viện,thư viện,tích cực,tích cực,thấp,trung bình
+1507,"Mình nghĩ môn tự chọn quá ít, ko có nhiều lựa chọn quá thất vọng.",synthetic_template,test,116,1,15,0,0,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,trung bình,thấp
+1525,"Wifi trường chập chờn, rất yếu. Còn điều hòa phòng học không mát, rất oi bức. Mong sớm được cải thiện.",synthetic_multilabel,test,303,1,21,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,tiêu cực,thấp,trung bình
+1535,"Mình nghĩ em đã chuyển khoản học phí nhưng hệ thống chưa ghi nhận, sắp bị khóa đăng ký học phần. Xin xử lý gấp.",synthetic_template,test,28,1,25,0,1,học phí,học phí,tiêu cực,tiêu cực,cao,cao
+1536,"Mong nhà trường xem lại: hệ thống lms dễ dùng, giao diện đẹp. Em rát hài lòng.",synthetic_template,test,50,1,17,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+1541,"Mình nghĩ hồ sơ xét tốt nghiệp của em bị thất lạc, sắp hết hạn nộp, em rất lo. Xin xử lý gấp.",synthetic_template,test,28,1,23,0,1,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+1542,"E bị gv gợi ý nộp tiền để dc qua môn, đề nghị trường xử lý gấp Em cần dc hỗ trợ ngay!",synthetic_template,test,28,1,23,0,1,giảng viên,giảng viên,tiêu cực,tiêu cực,cao,cao
+1545,"Trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sinh viên, ngoài ra em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Nhờ nhà trường xử lý gấp ạ! huhu.",synthetic_multilabel,test,307,1,43,0,1,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,cao,cao
+1548,"Hoạt động ngoại khóa ít, ko đa dạng và bàn ghế cũ, nhiều cái gãy. Hy vọng khắc phục sớm.",synthetic_multilabel,test,308,1,20,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,thấp,trung bình
+1552,"Tran phong hoc bi tham nuoc va roi vua, rat nguy hiem cho sinh vien, dong thoi ho so xet tot nghiep cua em bi that lac, sap het han nop, em rat lo xin xu ly gap.",synthetic_multilabel,test,307,0,38,0,1,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,cao,cao
+1559,"Mình nghĩ điều hòa phòng học không mát, rất oi bức. Quá thất vọng.",synthetic_template,test,101,1,14,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,thấp
+1581,Không có hình thức đóng học phí trả góp. Còn hệ thống LMS thường xuyên báo lỗi khi nộp bài.,synthetic_multilabel,test,310,1,20,0,0,học phí,học phí,tiêu cực,tiêu cực,trung bình,trung bình
+1585,"Thẻ thư viện của em bị khóa nhầm, mai em phải nộp tài liệu tham khảo cho đồ án tốt nghiệp, đồng thời thang máy tòa nhà bị kẹt giữa chừng, có sinh viên bị mắc kẹt. Xin xử lý gấp.",synthetic_multilabel,test,285,1,41,0,1,thư viện,thư viện,tiêu cực,tiêu cực,cao,cao
+1588,"Mong nha truong xem lai: dieu hoa phong hoc khong mat, rat oi buc. Nha truong xem xet giup em.",synthetic_template,test,101,0,20,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,trung bình
+1593,"Giờ mở cửa thư viện quá ngắn vào mùa thi. Còn bãi giữ xe chật, thường xuyên quá tải.",synthetic_multilabel,test,314,1,19,0,0,thư viện,thư viện,tiêu cực,tiêu cực,thấp,trung bình
+1594,"Em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,28,1,25,0,1,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,cao,cao
+1603,"Máy tính ở thư viện cũ và chậm và điều hòa phòng học không mát, rất oi bức nhà trường xem xét giúp em.",synthetic_multilabel,test,101,1,24,0,0,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình
+1604,"Học phí tăng nhưng chất lượng không cải thiện, đồng thời giờ mở cửa thư viện quá ngắn vào mùa thi. Nhà trường xem xét giúp em.",synthetic_multilabel,test,316,1,27,0,0,học phí,học phí,tiêu cực,tiêu cực,trung bình,trung bình
+1608,"Em cần giấy xác nhận để làm visa du học nhưng đã chờ hai tuần chưa có, còn 2 ngày nữa là hết hạn, đồng thời gv có lời lẽ xúc phạm sv ngay trong lớp, nhiều bạn rát bức xúc. Xin xử lý gấp.",synthetic_multilabel,test,203,1,45,0,1,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+1637,"Hoạt động ngoại khóa ít, không đa dạng. Quá thất vọng.",synthetic_template,test,61,1,11,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,tiêu cực,trung bình,thấp
+1647,Theo em thì em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Nhờ nhà trường xử lý gấp ạ!,synthetic_template,test,28,1,28,0,1,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,cao,cao
+1655,"Điều hòa phòng học ko mát, rát oi bức. Nhà trường xem xét giúp em.",synthetic_template,test,101,1,15,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,thấp,thấp
+1659,"Trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sinh viên và em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Xin xử lý gấp.",synthetic_multilabel,test,307,1,38,0,1,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,cao,cao
+1675,Mình nghĩ máy tính ở thư viện cũ và chậm.,synthetic_template,test,327,1,10,0,0,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình
+1680,"Em thấy phòng đọc ồn, khó tập trung. Hy vọng khắc phục sớm.",synthetic_template,test,260,1,13,0,0,thư viện,thư viện,tiêu cực,tiêu cực,trung bình,trung bình
+1684,Em thấy chương trình có học phần thực tập doanh nghiệp rất hữu ích cảm ơn trường nhiều.,synthetic_template,test,71,1,18,0,0,chương trình đào tạo,chương trình đào tạo,tích cực,tích cực,thấp,thấp
+1687,Em thấy em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Xin xử lý gấp.,synthetic_template,test,28,1,24,0,1,chương trình đào tạo,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+1690,"Không có hình thức đóng học phí trả góp. Còn wifi trường chập chờn, rất yếu. Nhà trường xem xét giúp em.",synthetic_multilabel,test,158,1,22,0,0,học phí,học phí,tiêu cực,tiêu cực,trung bình,trung bình
+1703,"Theo em thì hệ thống lms dễ dùng, giao diện đẹp. Em rất hài lòng.",synthetic_template,test,50,1,15,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tích cực,tích cực,thấp,thấp
+1710,"Mình nghĩ em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Rất khẩn cấp, mong phản hồi sớm!",synthetic_template,test,28,1,27,0,1,chương trình đào tạo,chương trình đào tạo,tiêu cực,tiêu cực,cao,cao
+1721,"Cán bộ phòng đào tạo hướng dẫn rát nhiệt tình, ngoài ra đề cương môn học rõ ràng, bám sát thực tế.",synthetic_multilabel,test,335,1,22,0,0,thủ tục hành chính,thủ tục hành chính,tích cực,tích cực,thấp,thấp
+1741,"Hồ sơ xét tốt nghiệp của em bị thất lạc, sắp hết hạn nộp, em rất lo. Còn em bị giảng viên gợi ý nộp tiền để được qua môn, đề nghị nhà trường xử lý gấp. Em cần được hỗ trợ ngay!",synthetic_multilabel,test,28,1,43,0,1,thủ tục hành chính,thủ tục hành chính,tiêu cực,tiêu cực,cao,cao
+1745,"Điều hòa phòng học ko mát, rất oi bức. Hy vọng khắc phục sớm.",synthetic_template,test,101,1,14,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,thấp,thấp
+1752,"Em bị tính phạt sai số sách trả trễ và bị chặn mượn trước ngày bảo vệ và trần phòng học bị thấm nước và rơi vữa, rất nguy hiểm cho sinh viên em cần được hỗ trợ ngay!",synthetic_multilabel,test,146,1,39,0,1,thư viện,thư viện,tiêu cực,tiêu cực,cao,cao
+1753,"Em thấy điều hòa phòng học không mát, rất oi bức nhà trường xem xét giúp em.",synthetic_template,test,101,1,17,0,0,cơ sở vật chất,cơ sở vật chất,tiêu cực,tiêu cực,trung bình,thấp
+1767,Em muốn gặp người phụ trách nhưng không rõ bộ phận nào.,manual_unknown,test,352,1,12,0,0,không xác định,không xác định,trung lập,trung lập,trung bình,thấp
+1770,Cần hỗ trợ gấp mà em không biết hỏi ai.,manual_unknown,test,355,1,10,0,1,không xác định,không xác định,trung lập,trung lập,cao,cao
+1775,Ổn áp lắm.,manual_unknown,test,360,1,3,1,0,không xác định,không xác định,tích cực,trung lập,thấp,thấp
+1782,Mọi thứ đều tệ.,manual_unknown,test,367,1,4,0,0,không xác định,không xác định,tiêu cực,tích cực,thấp,thấp
+1792,"Em cần mượn giáo trình này để thi sáng mai, xin hỏi thư viện còn mở cửa đến mấy giờ tối nay ạ.",manual_priority,test,377,1,23,0,1,thư viện,thư viện,trung lập,trung lập,cao,trung bình
+1802,"Tuần sau em cần nộp bản dịch bảng điểm cho công ty, xin hỏi thủ tục xin bảng điểm tiếng Anh cần giấy tờ gì ạ.",manual_priority,test,387,1,26,0,0,thủ tục hành chính,thủ tục hành chính,trung lập,trung lập,trung bình,cao
+1809,"Hạn nộp hồ sơ xét học bổng là cuối tháng này, em muốn hỏi điều kiện xét học bổng khuyến khích học tập ạ.",manual_priority,test,394,1,24,0,0,học phí,học phí,trung lập,trung lập,trung bình,trung bình
+1812,"Tuần sau em phải thi online bằng hai thiết bị, xin hỏi wifi trường có cho đăng nhập nhiều thiết bị cùng lúc không ạ.",manual_priority,test,397,1,25,0,0,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,trung lập,trung lập,trung bình,trung bình
+1816,"Giảng viên dạy rất tâm huyết, em mong nhà trường mở thêm lớp học phần của thầy vào học kỳ sau.",manual_priority,test,401,1,21,0,0,giảng viên,giảng viên,tích cực,tích cực,trung bình,thấp
+1823,"Phòng tư vấn tâm lý hỗ trợ rất tốt, em mong có thêm khung giờ vào buổi tối.",manual_priority,test,408,1,18,0,0,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,tích cực,trung bình,thấp
