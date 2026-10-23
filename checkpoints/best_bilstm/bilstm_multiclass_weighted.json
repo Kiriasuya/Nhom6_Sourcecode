@@ -1,0 +1,180 @@
+{
+  "arch": "bilstm",
+  "mode": "multiclass",
+  "loss": "weighted",
+  "best_cfg": {
+    "emb": 128,
+    "hid": 128,
+    "drop": 0.4,
+    "lr": 0.002,
+    "bs": 32
+  },
+  "val_macro_f1": 0.9179608307612411,
+  "test": {
+    "n": 254,
+    "macro_f1": 0.8513897473184721,
+    "micro_f1": 0.889763779527559,
+    "weighted_f1": 0.901790129597539,
+    "per_class_f1": {
+      "chương trình đào tạo": 0.9348,
+      "cơ sở vật chất": 1.0,
+      "dịch vụ sinh viên": 0.7869,
+      "giảng viên": 0.8254,
+      "hệ thống công nghệ thông tin": 0.9577,
+      "học phí": 0.9767,
+      "không xác định": 0.381,
+      "thư viện": 1.0,
+      "thủ tục hành chính": 0.8
+    },
+    "sentiment_macro_f1": 0.9447966489728855,
+    "priority_macro_f1": 0.7903545924616843,
+    "urgent_precision": 0.9857142857142858,
+    "urgent_recall": 0.971830985915493
+  },
+  "ood": {
+    "n": 14,
+    "macro_f1": 0.8523809523809524,
+    "micro_f1": 0.8571428571428571,
+    "weighted_f1": 0.8738095238095239,
+    "per_class_f1": {
+      "chương trình đào tạo": 1.0,
+      "cơ sở vật chất": 1.0,
+      "dịch vụ sinh viên": 0.8,
+      "giảng viên": 1.0,
+      "hệ thống công nghệ thông tin": 1.0,
+      "học phí": 0.5,
+      "không xác định": 0.6667
+    },
+    "sentiment_macro_f1": 0.5707070707070706,
+    "priority_macro_f1": 0.5555555555555555,
+    "urgent_precision": 0.5,
+    "urgent_recall": 0.5
+  },
+  "confusion_matrix": {
+    "labels": [
+      "chương trình đào tạo",
+      "cơ sở vật chất",
+      "dịch vụ sinh viên",
+      "giảng viên",
+      "hệ thống công nghệ thông tin",
+      "học phí",
+      "không xác định",
+      "thư viện",
+      "thủ tục hành chính"
+    ],
+    "matrix": [
+      [
+        43,
+        0,
+        2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        38,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        24,
+        0,
+        2,
+        0,
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        26,
+        0,
+        0,
+        4,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        34,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        21,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        18,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        18
+      ]
+    ]
+  },
+  "latency_ms_mean": 15.06610449999954,
+  "n_params": 360975,
+  "trials": [
+    {
+      "emb": 128,
+      "hid": 128,
+      "drop": 0.4,
+      "lr": 0.002,
+      "bs": 32,
+      "val_macro_f1": 0.918,
+      "sec": 61.9
+    }
+  ]
+}
