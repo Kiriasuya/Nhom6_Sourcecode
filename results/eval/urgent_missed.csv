@@ -1,0 +1,5 @@
+﻿model,id,text,actual_priority,predicted_priority
+bilstm,1091,Em bi thieu tin chi nhung sap het thoi han xet tot nghiep ma chua ai huong dan. Nho nha truong xu ly gap a!,cao,trung bình
+bilstm,1792,"Em cần mượn giáo trình này để thi sáng mai, xin hỏi thư viện còn mở cửa đến mấy giờ tối nay ạ.",cao,trung bình
+phobert,1792,"Em cần mượn giáo trình này để thi sáng mai, xin hỏi thư viện còn mở cửa đến mấy giờ tối nay ạ.",cao,trung bình
+visobert,1770,Cần hỗ trợ gấp mà em không biết hỏi ai.,cao,thấp

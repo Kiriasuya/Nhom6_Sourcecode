@@ -1,0 +1,32 @@
+﻿model,task,actual,predicted,count,example_id,example_text
+baseline,topic,chương trình đào tạo,dịch vụ sinh viên,9,321,"Mong nha truong xem lai: em bi thieu tin chi nhung sap het thoi han xet tot nghiep ma chua ai huong dan. Rat khan cap, mong phan hoi som!"
+baseline,topic,dịch vụ sinh viên,học phí,8,58,Cho em hoi lich kham suc khoe dau nam.
+baseline,topic,cơ sở vật chất,giảng viên,7,454,"Dieu hoa phong hoc khong mat, rat oi buc. Nha truong xem xet giup em."
+baseline,topic,chương trình đào tạo,giảng viên,5,313,"Môn tự chọn quá ít, không có nhiều lựa chọn. Hy vọng khắc phục sớm."
+baseline,topic,thủ tục hành chính,dịch vụ sinh viên,4,118,"Bộ phận một cửa làm việc chậm, thái độ không tốt, ngoài ra phòng y tế thiếu thuốc và nhân viên."
+baseline,sentiment,trung lập,tiêu cực,3,566,Mong nha truong xem lai: em muon xin lich tiep sinh vien cua thay chu nhiem a?
+baseline,sentiment,tích cực,tiêu cực,2,255,Mình nghĩ chương trình có học phần thực tập doanh nghiệp rát hữu ích.
+baseline,sentiment,tiêu cực,tích cực,1,1782,Mọi thứ đều tệ.
+baseline,priority,thấp,trung bình,27,96,"Theo em thì hoạt động ngoại khóa ít, không đa dạng."
+baseline,priority,trung bình,thấp,17,235,"Điều hòa phòng học không mát, rát oi bức. Mong sớm dc cải thiện."
+bilstm,topic,dịch vụ sinh viên,không xác định,8,58,Cho em hoi lich kham suc khoe dau nam.
+bilstm,topic,giảng viên,thủ tục hành chính,6,566,Mong nha truong xem lai: em muon xin lich tiep sinh vien cua thay chu nhiem a?
+bilstm,topic,giảng viên,không xác định,4,165,Em muốn xin lịch tiếp sinh viên của thầy chủ nhiệm.
+bilstm,topic,chương trình đào tạo,thủ tục hành chính,3,834,"Theo em thì em bị thiếu tín chỉ nhưng sắp hết thời hạn xét tốt nghiệp mà chưa ai hướng dẫn. Rất khẩn cấp, mong phản hồi sớm!"
+bilstm,topic,chương trình đào tạo,dịch vụ sinh viên,2,374,"Minh nghi mon tu chon qua it, khong co nhieu lua chon. Mong som duoc cai thien."
+bilstm,sentiment,tích cực,trung lập,4,123,Chương trình có học phần thực tập doanh nghiệp rất hữu ích. huhu.
+bilstm,sentiment,tích cực,tiêu cực,2,285,Mong trường xem lại: chương trình có học phần thực tập doanh nghiệp rất hữu ích.
+bilstm,sentiment,tiêu cực,tích cực,2,512,"Mong nha truong xem lai: dieu hoa phong hoc khong mat, rat oi buc."
+bilstm,sentiment,tiêu cực,trung lập,1,692,"Hoat dong ngoai khoa it, khong da dang huhu."
+bilstm,priority,thấp,trung bình,29,96,"Theo em thì hoạt động ngoại khóa ít, không đa dạng."
+bilstm,priority,trung bình,thấp,23,235,"Điều hòa phòng học không mát, rát oi bức. Mong sớm dc cải thiện."
+bilstm,priority,cao,trung bình,2,1091,Em bi thieu tin chi nhung sap het thoi han xet tot nghiep ma chua ai huong dan. Nho nha truong xu ly gap a!
+bilstm,priority,trung bình,cao,1,1802,"Tuần sau em cần nộp bản dịch bảng điểm cho công ty, xin hỏi thủ tục xin bảng điểm tiếng Anh cần giấy tờ gì ạ."
+phobert,sentiment,tiêu cực,trung lập,1,710,Lag.
+phobert,priority,thấp,trung bình,30,96,"Theo em thì hoạt động ngoại khóa ít, không đa dạng."
+phobert,priority,trung bình,thấp,1,710,Lag.
+phobert,priority,cao,trung bình,1,1792,"Em cần mượn giáo trình này để thi sáng mai, xin hỏi thư viện còn mở cửa đến mấy giờ tối nay ạ."
+visobert,priority,thấp,trung bình,34,96,"Theo em thì hoạt động ngoại khóa ít, không đa dạng."
+visobert,priority,trung bình,thấp,1,710,Lag.
+visobert,priority,cao,thấp,1,1770,Cần hỗ trợ gấp mà em không biết hỏi ai.
+visobert,priority,trung bình,cao,1,1809,"Hạn nộp hồ sơ xét học bổng là cuối tháng này, em muốn hỏi điều kiện xét học bổng khuyến khích học tập ạ."
