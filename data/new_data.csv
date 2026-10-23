@@ -1,0 +1,16 @@
+text,topics,primary_topic,sentiment,priority,source
+"Thư viện hết chỗ ngồi mỗi mùa thi, phải đến từ 6h sáng mới có chỗ",thư viện,thư viện,tiêu cực,trung bình,manual
+thư viện,thư viện,thư viện,trung lập,thấp,manual
+Học phí kỳ này tăng 15% mà không có thông báo trước,học phí,học phí,tiêu cực,trung bình,manual
+"Em chuyển khoản học phí rồi mà vẫn bị báo nợ, mai hết hạn đăng ký môn, nhờ phòng tài chính check gấp",học phí; hệ thống công nghệ thông tin,học phí,tiêu cực,cao,manual
+"Xin bảng điểm phải đi 3 lần mới xong, cán bộ nói mỗi lần một kiểu",thủ tục hành chính,thủ tục hành chính,tiêu cực,trung bình,manual
+"Cô ở phòng đào tạo hướng dẫn rất tận tình, cảm ơn cô",thủ tục hành chính,thủ tục hành chính,tích cực,thấp,manual
+wifi yếu quá,hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,thấp,manual
+"Web đăng ký học phần sập hoàn toàn lúc 7h, cả khoa không vào được",hệ thống công nghệ thông tin,hệ thống công nghệ thông tin,tiêu cực,cao,manual
+"Thầy dạy hay nhưng phòng học nóng quá, quạt thì hỏng",giảng viên; cơ sở vật chất,giảng viên,tiêu cực,trung bình,manual
+"Ký túc xá mất nước 2 ngày liền, sinh viên không có nước sinh hoạt",dịch vụ sinh viên,dịch vụ sinh viên,tiêu cực,cao,manual
+Câu lạc bộ học thuật của trường tổ chức nhiều buổi workshop bổ ích,dịch vụ sinh viên,dịch vụ sinh viên,tích cực,thấp,manual
+Môn Cấu trúc dữ liệu nên có thêm giờ thực hành,chương trình đào tạo,chương trình đào tạo,trung lập,thấp,manual
+Cho em hỏi lịch thi cuối kỳ đăng ở đâu ạ,chương trình đào tạo,chương trình đào tạo,trung lập,thấp,manual
+tệ,,,tiêu cực,thấp,manual
+"Giảng viên có thái độ miệt thị sinh viên trong giờ học, em muốn khiếu nại",giảng viên,giảng viên,tiêu cực,cao,manual
